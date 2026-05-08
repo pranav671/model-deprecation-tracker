@@ -18,23 +18,15 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-05-07*
+*Last updated: 2026-05-08*
 
 ### Anthropic
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| claude-3-7-sonnet-20250219 |  | retired | 2025-10-28 | 🔴 2026-02-19 | claude-sonnet-4-6 |
-| claude-3-5-haiku-20241022 |  | retired | 2025-12-19 | 🔴 2026-02-19 | claude-haiku-4-5-20251001 |
-| claude-3-haiku-20240307 |  | retired | 2026-02-19 | 🔴 2026-04-20 | claude-haiku-4-5-20251001 |
-| claude-opus-4-20250514 |  | deprecated | 2026-04-14 | 2026-06-15 | claude-opus-4-7 |
-| claude-sonnet-4-20250514 |  | deprecated | 2026-04-14 | 2026-06-15 | claude-sonnet-4-6 |
 | claude-opus-4-1-20250805 |  | active | TBD | 2026-08-05 |  |
-| claude-sonnet-4-5-20250929 |  | active | TBD | 2026-09-29 |  |
-| claude-haiku-4-5-20251001 |  | active | TBD | 2026-10-15 |  |
 | claude-opus-4-5-20251101 |  | active | TBD | 2026-11-24 |  |
 | claude-opus-4-6 |  | active | TBD | 2027-02-05 |  |
-| claude-sonnet-4-6 |  | active | TBD | 2027-02-17 |  |
 | claude-opus-4-7 |  | active | TBD | 2027-04-16 |  |
 
 ### Gemini
@@ -45,7 +37,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | imagen-4.0-generate-preview-06-06 |  | retired | TBD | 🔴 2026-02-17 | imagen-4.0-generate-001 |
 | imagen-4.0-ultra-generate-preview-06-06 |  | retired | TBD | 🔴 2026-02-17 | imagen-4.0-ultra-generate-001 |
 | gemini-3-pro-preview |  | retired | TBD | 🔴 2026-03-09 | gemini-3.1-pro-preview |
-| gemini-2.5-flash-lite-preview-09-2025 |  | retired | TBD | 🔴 2026-03-31 | gemini-3.1-flash-lite-preview |
+| gemini-2.5-flash-lite-preview-09-2025 |  | retired | TBD | 🔴 2026-03-31 | gemini-3.1-flash-lite |
 | gemini-robotics-er-1.5-preview |  | retired | TBD | 🔴 2026-04-30 | gemini-robotics-er-1.6-preview |
 | gemini-3.1-flash-lite-preview |  | deprecated | TBD | 🟡 2026-05-25 | gemini-3.1-flash-lite |
 | gemini-2.0-flash |  | deprecated | TBD | 🟡 2026-06-01 | gemini-2.5-flash |
@@ -59,7 +51,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gemini-2.5-flash-image |  | deprecated | TBD | 2026-10-02 | gemini-3.1-flash-image-preview |
 | gemini-2.5-pro |  | deprecated | TBD | 2026-10-16 | gemini-3.1-pro-preview |
 | gemini-2.5-flash |  | deprecated | TBD | 2026-10-16 | gemini-3-flash-preview |
-| gemini-2.5-flash-lite |  | deprecated | TBD | 2026-10-16 | gemini-3.1-flash-lite-preview |
+| gemini-2.5-flash-lite |  | deprecated | TBD | 2026-10-16 | gemini-3.1-flash-lite |
 | gemini-3.1-flash-lite |  | deprecated | TBD | 2027-05-07 |  |
 
 ### OpenAI

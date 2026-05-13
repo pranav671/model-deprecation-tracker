@@ -1,11 +1,29 @@
 [
   {
     "provider": "OpenAI",
+    "model_name": "gpt-5.2-chat-latest",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2026-08-10",
+    "replacement": "gpt-5.5",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
+    "model_name": "gpt-5.3-chat-latest",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2026-08-10",
+    "replacement": "gpt-5.5",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
     "model_name": "computer-use-preview-2025-03-11 | computer-use-preview",
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "5.4-mini",
+    "replacement": "gpt-5.4-mini",
     "status": "deprecated"
   },
   {
@@ -14,7 +32,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "gpt-audio",
+    "replacement": "gpt-audio-1.5",
     "status": "deprecated"
   },
   {
@@ -23,7 +41,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "gpt-audio",
+    "replacement": "gpt-audio-mini",
     "status": "deprecated"
   },
   {
@@ -41,16 +59,16 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "4.1-mini",
+    "replacement": "gpt-5.4-mini",
     "status": "deprecated"
   },
   {
     "provider": "OpenAI",
-    "model_name": "gpt-4o-mini-tts-2025-03-20",
+    "model_name": "gpt-4o-mini-tts-2025-12-15",
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "gpt-realtime",
+    "replacement": "gpt-realtime-2",
     "status": "deprecated"
   },
   {
@@ -59,7 +77,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "gpt-4.1-mini",
+    "replacement": "gpt-5.4-mini",
     "status": "deprecated"
   },
   {
@@ -77,7 +95,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "gpt-5.4",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -95,7 +113,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "gpt-5",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -104,7 +122,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "gpt-5.4",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -122,7 +140,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "gpt-audio",
+    "replacement": "gpt-audio-1.5",
     "status": "deprecated"
   },
   {
@@ -140,7 +158,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "5.4-Pro",
+    "replacement": "gpt-5.5-pro",
     "status": "deprecated"
   },
   {
@@ -149,7 +167,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "5.4-Pro",
+    "replacement": "gpt-5.5-pro",
     "status": "deprecated"
   },
   {
@@ -158,7 +176,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-07-23",
-    "replacement": "gpt-5.4",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -167,7 +185,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-4.1-mini",
+    "replacement": "gpt-5.4-mini",
     "status": "deprecated"
   },
   {
@@ -176,7 +194,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-4.1",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -185,7 +203,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-4.1",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -194,7 +212,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-4.1",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -203,7 +221,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-5-nano",
+    "replacement": "gpt-5.4-nano",
     "status": "deprecated"
   },
   {
@@ -212,7 +230,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-4.1",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -221,7 +239,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-image-1.5",
+    "replacement": "gpt-image-2",
     "status": "deprecated"
   },
   {
@@ -230,7 +248,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "o3",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -239,7 +257,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "5.4-Pro",
+    "replacement": "gpt-5.5-pro",
     "status": "deprecated"
   },
   {
@@ -248,7 +266,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "o3",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -257,7 +275,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-5-mini",
+    "replacement": "gpt-5.4-mini",
     "status": "deprecated"
   },
   {
@@ -266,7 +284,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-5-mini",
+    "replacement": "gpt-5.4-mini",
     "status": "deprecated"
   },
   {
@@ -275,7 +293,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-4.1-mini",
+    "replacement": "gpt-5.4-mini",
     "status": "deprecated"
   },
   {
@@ -284,7 +302,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-4.1",
+    "replacement": "gpt-5.5",
     "status": "deprecated"
   },
   {
@@ -293,7 +311,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-5-nano",
+    "replacement": "gpt-5.4-nano",
     "status": "deprecated"
   },
   {
@@ -302,7 +320,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-5-mini",
+    "replacement": "gpt-5.4-mini",
     "status": "deprecated"
   },
   {
@@ -311,7 +329,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
-    "replacement": "gpt-5-mini",
+    "replacement": "gpt-5.4-mini",
     "status": "deprecated"
   },
   {

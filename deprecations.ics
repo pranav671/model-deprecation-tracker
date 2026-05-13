@@ -3,12 +3,46 @@ VERSION:2.0
 PRODID:-//ModelDeprecationTracker//EN
 X-WR-CALNAME:Model Deprecations
 BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: gpt-5.2-chat-latest
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DESCRIPTION:Model: gpt-5.2-chat-latest\nReplacement: gpt-5.5\nStatus: depr
+ ecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.2-chat-latest shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.2-chat-latest shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: gpt-5.3-chat-latest
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DESCRIPTION:Model: gpt-5.3-chat-latest\nReplacement: gpt-5.5\nStatus: depr
+ ecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.3-chat-latest shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.3-chat-latest shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: computer-use-preview-2025-03-11 | comp
  uter-use-preview
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 DESCRIPTION:Model: computer-use-preview-2025-03-11 | computer-use-preview\
- nReplacement: 5.4-mini\nStatus: deprecated
+ nReplacement: gpt-5.4-mini\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:computer-use-preview-2025-03-11 | computer-use-preview shutdow
@@ -27,7 +61,7 @@ SUMMARY:[OpenAI] Model deprecation: gpt-4o-audio-preview-2024-12-17
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 DESCRIPTION:Model: gpt-4o-audio-preview-2024-12-17\nReplacement: gpt-audio
- \nStatus: deprecated
+ -1.5\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4o-audio-preview-2024-12-17 shutdown in 7 days
@@ -44,7 +78,7 @@ SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-audio-preview-2024-12-17
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 DESCRIPTION:Model: gpt-4o-mini-audio-preview-2024-12-17\nReplacement: gpt-
- audio\nStatus: deprecated
+ audio-mini\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4o-mini-audio-preview-2024-12-17 shutdown in 7 days
@@ -78,8 +112,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-search-preview-2025-03-11
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-4o-mini-search-preview-2025-03-11\nReplacement: 4.1
- -mini\nStatus: deprecated
+DESCRIPTION:Model: gpt-4o-mini-search-preview-2025-03-11\nReplacement: gpt
+ -5.4-mini\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4o-mini-search-preview-2025-03-11 shutdown in 7 days
@@ -92,19 +126,19 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-tts-2025-03-20
+SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-tts-2025-12-15
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-4o-mini-tts-2025-03-20\nReplacement: gpt-realtime\n
- Status: deprecated
+DESCRIPTION:Model: gpt-4o-mini-tts-2025-12-15\nReplacement: gpt-realtime-2
+ \nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-tts-2025-03-20 shutdown in 7 days
+DESCRIPTION:gpt-4o-mini-tts-2025-12-15 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-tts-2025-03-20 shutdown in 30 days
+DESCRIPTION:gpt-4o-mini-tts-2025-12-15 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -112,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-4o-search-preview-2025-03-11
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-4o-search-preview-2025-03-11\nReplacement: gpt-4.1-
+DESCRIPTION:Model: gpt-4o-search-preview-2025-03-11\nReplacement: gpt-5.4-
  mini\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -146,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-5-codex
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-5-codex\nReplacement: gpt-5.4\nStatus: deprecated
+DESCRIPTION:Model: gpt-5-codex\nReplacement: gpt-5.5\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-5-codex shutdown in 7 days
@@ -179,7 +213,7 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-5.1-codex
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-5.1-codex\nReplacement: gpt-5\nStatus: deprecated
+DESCRIPTION:Model: gpt-5.1-codex\nReplacement: gpt-5.5\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-5.1-codex shutdown in 7 days
@@ -195,7 +229,7 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-5.1-codex-max
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-5.1-codex-max\nReplacement: gpt-5.4\nStatus: deprec
+DESCRIPTION:Model: gpt-5.1-codex-max\nReplacement: gpt-5.5\nStatus: deprec
  ated
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -229,8 +263,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-audio-mini-2025-10-06
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-audio-mini-2025-10-06\nReplacement: gpt-audio\nStat
- us: deprecated
+DESCRIPTION:Model: gpt-audio-mini-2025-10-06\nReplacement: gpt-audio-1.5\n
+ Status: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-audio-mini-2025-10-06 shutdown in 7 days
@@ -265,7 +299,7 @@ SUMMARY:[OpenAI] Model deprecation: o3-deep-research-2025-06-26 | o3-deep-
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 DESCRIPTION:Model: o3-deep-research-2025-06-26 | o3-deep-research\nReplace
- ment: 5.4-Pro\nStatus: deprecated
+ ment: gpt-5.5-pro\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:o3-deep-research-2025-06-26 | o3-deep-research shutdown in 7 d
@@ -285,7 +319,7 @@ SUMMARY:[OpenAI] Model deprecation: o4-mini-deep-research-2025-06-26 | o4-
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
 DESCRIPTION:Model: o4-mini-deep-research-2025-06-26 | o4-mini-deep-researc
- h\nReplacement: 5.4-Pro\nStatus: deprecated
+ h\nReplacement: gpt-5.5-pro\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:o4-mini-deep-research-2025-06-26 | o4-mini-deep-research shutd
@@ -303,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-5.2-codex
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-5.2-codex\nReplacement: gpt-5.4\nStatus: deprecated
+DESCRIPTION:Model: gpt-5.2-codex\nReplacement: gpt-5.5\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-5.2-codex shutdown in 7 days
@@ -321,7 +355,7 @@ SUMMARY:[OpenAI] Model deprecation: gpt-3.5-turbo-0125 | gpt-3.5-turbo\, g
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 DESCRIPTION:Model: gpt-3.5-turbo-0125 | gpt-3.5-turbo\, gpt-3.5-turbo-comp
- letions\nReplacement: gpt-4.1-mini\nStatus: deprecated
+ letions\nReplacement: gpt-5.4-mini\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-3.5-turbo-0125 | gpt-3.5-turbo\, gpt-3.5-turbo-completions
@@ -341,7 +375,7 @@ SUMMARY:[OpenAI] Model deprecation: gpt-4-0613 | gpt-4\, gpt-4-0613-comple
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 DESCRIPTION:Model: gpt-4-0613 | gpt-4\, gpt-4-0613-completions\, gpt-4-com
- pletions\nReplacement: gpt-4.1\nStatus: deprecated
+ pletions\nReplacement: gpt-5.5\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4-0613 | gpt-4\, gpt-4-0613-completions\, gpt-4-completion
@@ -359,7 +393,7 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-4-1106-preview
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: gpt-4-1106-preview\nReplacement: gpt-4.1\nStatus: depre
+DESCRIPTION:Model: gpt-4-1106-preview\nReplacement: gpt-5.5\nStatus: depre
  cated
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -378,7 +412,7 @@ SUMMARY:[OpenAI] Model deprecation: gpt-4-turbo | gpt-4-turbo-2024-04-09\,
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 DESCRIPTION:Model: gpt-4-turbo | gpt-4-turbo-2024-04-09\, gpt-4-turbo-comp
- letions\nReplacement: gpt-4.1\nStatus: deprecated
+ letions\nReplacement: gpt-5.5\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4-turbo | gpt-4-turbo-2024-04-09\, gpt-4-turbo-completions
@@ -397,7 +431,7 @@ SUMMARY:[OpenAI] Model deprecation: gpt-4.1-nano | gpt-4.1-nano-2025-04-14
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
 DESCRIPTION:Model: gpt-4.1-nano | gpt-4.1-nano-2025-04-14\nReplacement: gp
- t-5-nano\nStatus: deprecated
+ t-5.4-nano\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4.1-nano | gpt-4.1-nano-2025-04-14 shutdown in 7 days
@@ -413,7 +447,7 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-4o-2024-05-13
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: gpt-4o-2024-05-13\nReplacement: gpt-4.1\nStatus: deprec
+DESCRIPTION:Model: gpt-4o-2024-05-13\nReplacement: gpt-5.5\nStatus: deprec
  ated
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -430,8 +464,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-image-1
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: gpt-image-1\nReplacement: gpt-image-1.5\nStatus: deprec
- ated
+DESCRIPTION:Model: gpt-image-1\nReplacement: gpt-image-2\nStatus: deprecat
+ ed
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-image-1 shutdown in 7 days
@@ -447,7 +481,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: o1-2024-12-17 | o1
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: o1-2024-12-17 | o1\nReplacement: o3\nStatus: deprecated
+DESCRIPTION:Model: o1-2024-12-17 | o1\nReplacement: gpt-5.5\nStatus: depre
+ cated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:o1-2024-12-17 | o1 shutdown in 7 days
@@ -463,8 +498,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: o1-pro-2025-03-19 | o1-pro
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: o1-pro-2025-03-19 | o1-pro\nReplacement: 5.4-Pro\nStatu
- s: deprecated
+DESCRIPTION:Model: o1-pro-2025-03-19 | o1-pro\nReplacement: gpt-5.5-pro\nS
+ tatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:o1-pro-2025-03-19 | o1-pro shutdown in 7 days
@@ -480,8 +515,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: o3-mini-2025-01-31 | o3-mini
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: o3-mini-2025-01-31 | o3-mini\nReplacement: o3\nStatus: 
- deprecated
+DESCRIPTION:Model: o3-mini-2025-01-31 | o3-mini\nReplacement: gpt-5.5\nSta
+ tus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:o3-mini-2025-01-31 | o3-mini shutdown in 7 days
@@ -497,8 +532,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: ft-o4-mini-2025-04-16
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: ft-o4-mini-2025-04-16\nReplacement: gpt-5-mini\nStatus:
-  deprecated
+DESCRIPTION:Model: ft-o4-mini-2025-04-16\nReplacement: gpt-5.4-mini\nStatu
+ s: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ft-o4-mini-2025-04-16 shutdown in 7 days
@@ -514,8 +549,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: o4-mini-2025-04-16 | o4-mini
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: o4-mini-2025-04-16 | o4-mini\nReplacement: gpt-5-mini\n
- Status: deprecated
+DESCRIPTION:Model: o4-mini-2025-04-16 | o4-mini\nReplacement: gpt-5.4-mini
+ \nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:o4-mini-2025-04-16 | o4-mini shutdown in 7 days
@@ -531,7 +566,7 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: ft-gpt-3.5-turbo
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: ft-gpt-3.5-turbo\nReplacement: gpt-4.1-mini\nStatus: de
+DESCRIPTION:Model: ft-gpt-3.5-turbo\nReplacement: gpt-5.4-mini\nStatus: de
  precated
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -548,7 +583,7 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: ft-gpt-4
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: ft-gpt-4\nReplacement: gpt-4.1\nStatus: deprecated
+DESCRIPTION:Model: ft-gpt-4\nReplacement: gpt-5.5\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ft-gpt-4 shutdown in 7 days
@@ -564,8 +599,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: ft-gpt-4.1-nano-2025-04-14
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: ft-gpt-4.1-nano-2025-04-14\nReplacement: gpt-5-nano\nSt
- atus: deprecated
+DESCRIPTION:Model: ft-gpt-4.1-nano-2025-04-14\nReplacement: gpt-5.4-nano\n
+ Status: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ft-gpt-4.1-nano-2025-04-14 shutdown in 7 days
@@ -581,8 +616,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: ft-babbage-002
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: ft-babbage-002\nReplacement: gpt-5-mini\nStatus: deprec
- ated
+DESCRIPTION:Model: ft-babbage-002\nReplacement: gpt-5.4-mini\nStatus: depr
+ ecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ft-babbage-002 shutdown in 7 days
@@ -598,8 +633,8 @@ BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: ft-davinci-002
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: ft-davinci-002\nReplacement: gpt-5-mini\nStatus: deprec
- ated
+DESCRIPTION:Model: ft-davinci-002\nReplacement: gpt-5.4-mini\nStatus: depr
+ ecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ft-davinci-002 shutdown in 7 days

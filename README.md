@@ -18,7 +18,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-05-18*
+*Last updated: 2026-05-19*
 
 ### Anthropic
 
@@ -41,9 +41,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| gemini-2.5-flash-preview-09-25 |  | retired | TBD | 🔴 2026-02-17 | gemini-3-flash-preview |
-| imagen-4.0-generate-preview-06-06 |  | retired | TBD | 🔴 2026-02-17 | imagen-4.0-generate-001 |
-| imagen-4.0-ultra-generate-preview-06-06 |  | retired | TBD | 🔴 2026-02-17 | imagen-4.0-ultra-generate-001 |
 | gemini-3-pro-preview |  | retired | TBD | 🔴 2026-03-09 | gemini-3.1-pro-preview |
 | gemini-2.5-flash-lite-preview-09-2025 |  | retired | TBD | 🔴 2026-03-31 | gemini-3.1-flash-lite |
 | gemini-robotics-er-1.5-preview |  | retired | TBD | 🔴 2026-04-30 | gemini-robotics-er-1.6-preview |
@@ -66,7 +63,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| chatgpt-4o-latest |  | deprecated | TBD | 🔴 2026-02-17 | gpt-5.1-chat-latest |
 | gpt-4-0314 |  | deprecated | TBD | 🔴 2026-03-26 | gpt-5 or gpt-4.1* |
 | gpt-4-1106-preview |  | deprecated | TBD | 🔴 2026-03-26 | gpt-5 or gpt-4.1* |
 | gpt-4-0125-preview (including gpt-4-turbo-preview and gpt-4-turbo-preview-completions, which point to this snapshot) |  | deprecated | TBD | 🔴 2026-03-26 | gpt-5 or gpt-4.1* |

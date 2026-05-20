@@ -18,7 +18,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-05-19*
+*Last updated: 2026-05-20*
 
 ### Anthropic
 
@@ -55,7 +55,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gemini-embedding-001 |  | deprecated | TBD | 2026-07-14 |  |
 | gemini-2.5-flash-image |  | deprecated | TBD | 2026-10-02 | gemini-3.1-flash-image-preview |
 | gemini-2.5-pro |  | deprecated | TBD | 2026-10-16 | gemini-3.1-pro-preview |
-| gemini-2.5-flash |  | deprecated | TBD | 2026-10-16 | gemini-3-flash-preview |
+| gemini-2.5-flash |  | deprecated | TBD | 2026-10-16 | gemini-3.5-flash |
 | gemini-2.5-flash-lite |  | deprecated | TBD | 2026-10-16 | gemini-3.1-flash-lite |
 | gemini-3.1-flash-lite |  | deprecated | TBD | 2027-05-07 |  |
 
@@ -76,9 +76,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | dall-e-3 |  | deprecated | TBD | 🔴 2026-05-12 | gpt-image-2, gpt-image-1, or gpt-image-1-mini |
 | OpenAI-Beta: realtime=v1 |  | deprecated | TBD | 🔴 2026-05-12 | Realtime API |
 | computer-use-preview-2025-03-11 | computer-use-preview |  | deprecated | TBD | 2026-07-23 | gpt-5.4-mini |
-| gpt-4o-audio-preview-2024-12-17 |  | deprecated | TBD | 2026-07-23 | gpt-audio-1.5 |
-| gpt-4o-mini-audio-preview-2024-12-17 |  | deprecated | TBD | 2026-07-23 | gpt-audio-mini |
-| gpt-4o-mini-realtime-preview-2024-12-17 |  | deprecated | TBD | 2026-07-23 | gpt-realtime-mini |
 | gpt-4o-mini-search-preview-2025-03-11 |  | deprecated | TBD | 2026-07-23 | gpt-5.4-mini |
 | gpt-4o-mini-tts-2025-03-20 |  | deprecated | TBD | 2026-07-23 | gpt-4o-mini-tts-2025-12-15 |
 | gpt-4o-search-preview-2025-03-11 |  | deprecated | TBD | 2026-07-23 | gpt-5.4-mini |

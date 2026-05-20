@@ -57,58 +57,6 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-4o-audio-preview-2024-12-17
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-4o-audio-preview-2024-12-17\nReplacement: gpt-audio
- -1.5\nStatus: deprecated
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-4o-audio-preview-2024-12-17 shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-4o-audio-preview-2024-12-17 shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-audio-preview-2024-12-17
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-4o-mini-audio-preview-2024-12-17\nReplacement: gpt-
- audio-mini\nStatus: deprecated
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-audio-preview-2024-12-17 shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-audio-preview-2024-12-17 shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-realtime-preview-2024-12-1
- 7
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-4o-mini-realtime-preview-2024-12-17\nReplacement: g
- pt-realtime-mini\nStatus: deprecated
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-realtime-preview-2024-12-17 shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-realtime-preview-2024-12-17 shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-search-preview-2025-03-11
 DTSTART;VALUE=DATE:20260723
 DTEND;VALUE=DATE:20260724
@@ -2603,8 +2551,8 @@ BEGIN:VEVENT
 SUMMARY:[Gemini] Model deprecation: gemini-2.5-flash
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DESCRIPTION:Model: gemini-2.5-flash\nReplacement: gemini-3-flash-preview\n
- Status: deprecated
+DESCRIPTION:Model: gemini-2.5-flash\nReplacement: gemini-3.5-flash\nStatus
+ : deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gemini-2.5-flash shutdown in 7 days
@@ -2671,8 +2619,8 @@ BEGIN:VEVENT
 SUMMARY:[Gemini] Model deprecation: gemini-2.5-flash-preview-05-20
 DTSTART;VALUE=DATE:20251118
 DTEND;VALUE=DATE:20251119
-DESCRIPTION:Model: gemini-2.5-flash-preview-05-20\nReplacement: gemini-3-f
- lash-preview\nStatus: retired
+DESCRIPTION:Model: gemini-2.5-flash-preview-05-20\nReplacement: gemini-3.5
+ -flash\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gemini-2.5-flash-preview-05-20 shutdown in 7 days
@@ -2705,8 +2653,8 @@ BEGIN:VEVENT
 SUMMARY:[Gemini] Model deprecation: gemini-2.5-flash-preview-09-25
 DTSTART;VALUE=DATE:20260217
 DTEND;VALUE=DATE:20260218
-DESCRIPTION:Model: gemini-2.5-flash-preview-09-25\nReplacement: gemini-3-f
- lash-preview\nStatus: retired
+DESCRIPTION:Model: gemini-2.5-flash-preview-09-25\nReplacement: gemini-3.5
+ -flash\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gemini-2.5-flash-preview-09-25 shutdown in 7 days

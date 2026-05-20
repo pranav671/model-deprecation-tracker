@@ -28,33 +28,6 @@
   },
   {
     "provider": "OpenAI",
-    "model_name": "gpt-4o-audio-preview-2024-12-17",
-    "model_id": "",
-    "deprecated_date": "",
-    "shutdown_date": "2026-07-23",
-    "replacement": "gpt-audio-1.5",
-    "status": "deprecated"
-  },
-  {
-    "provider": "OpenAI",
-    "model_name": "gpt-4o-mini-audio-preview-2024-12-17",
-    "model_id": "",
-    "deprecated_date": "",
-    "shutdown_date": "2026-07-23",
-    "replacement": "gpt-audio-mini",
-    "status": "deprecated"
-  },
-  {
-    "provider": "OpenAI",
-    "model_name": "gpt-4o-mini-realtime-preview-2024-12-17",
-    "model_id": "",
-    "deprecated_date": "",
-    "shutdown_date": "2026-07-23",
-    "replacement": "gpt-realtime-mini",
-    "status": "deprecated"
-  },
-  {
-    "provider": "OpenAI",
     "model_name": "gpt-4o-mini-search-preview-2025-03-11",
     "model_id": "",
     "deprecated_date": "",
@@ -1315,6 +1288,15 @@
   },
   {
     "provider": "Gemini",
+    "model_name": "gemini-3.5-flash",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Gemini",
     "model_name": "gemini-3.1-flash-lite",
     "model_id": "",
     "deprecated_date": "",
@@ -1364,7 +1346,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "",
-    "replacement": "",
+    "replacement": "gemini-3.5-flash",
     "status": "active"
   },
   {
@@ -1418,7 +1400,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-16",
-    "replacement": "gemini-3-flash-preview",
+    "replacement": "gemini-3.5-flash",
     "status": "deprecated"
   },
   {
@@ -1454,7 +1436,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2025-11-18",
-    "replacement": "gemini-3-flash-preview",
+    "replacement": "gemini-3.5-flash",
     "status": "retired"
   },
   {
@@ -1472,7 +1454,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-02-17",
-    "replacement": "gemini-3-flash-preview",
+    "replacement": "gemini-3.5-flash",
     "status": "retired"
   },
   {

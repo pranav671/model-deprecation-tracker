@@ -18,7 +18,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-05-28*
+*Last updated: 2026-05-29*
 
 ### Anthropic
 
@@ -53,7 +53,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | imagen-4.0-fast-generate-001 |  | deprecated | TBD | 🟡 2026-06-24 | gemini-3-pro-image-preview orgemini-2.5-flash-image |
 | gemini-3.1-flash-image-preview |  | deprecated | TBD | 🟡 2026-06-25 | gemini-3.1-flash-image |
 | gemini-3-pro-image-preview |  | deprecated | TBD | 🟡 2026-06-25 | gemini-3-pro-image |
-| gemini-embedding-001 |  | deprecated | TBD | 2026-07-14 |  |
+| gemini-embedding-001 |  | deprecated | TBD | 2026-07-14 | gemini-embedding-2 |
 | gemini-2.5-flash-image |  | deprecated | TBD | 2026-10-02 | gemini-3.1-flash-image-preview |
 | gemini-2.5-pro |  | deprecated | TBD | 2026-10-16 | gemini-3.1-pro-preview |
 | gemini-2.5-flash |  | deprecated | TBD | 2026-10-16 | gemini-3.5-flash |
@@ -126,8 +126,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| Jamba 1.5 Large | Jamba 1.5 Large | retired | 2026-08-27 | 🔴 2026-02-27 |  |
-| Jamba 1.5 Mini | Jamba 1.5 Mini | retired | 2026-08-27 | 🔴 2026-02-27 |  |
 | Claude 3.7 Sonnet | Claude 3.7 Sonnet | retired | 2026-11-11 | 🔴 2026-05-11 |  |
 | Claude 3.5 Haiku | Claude 3.5 Haiku | deprecated | 2026-01-05 | 2026-07-05 |  |
 | Claude 3 Opus | Claude 3 Opus | deprecated | 2026-06-30 | 2026-08-01 |  |

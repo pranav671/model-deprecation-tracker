@@ -2720,8 +2720,8 @@ BEGIN:VEVENT
 SUMMARY:[Gemini] Model deprecation: gemini-2.0-flash
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-DESCRIPTION:Model: gemini-2.0-flash\nReplacement: gemini-2.5-flash\nStatus
- : deprecated
+DESCRIPTION:Model: gemini-2.0-flash\nReplacement: gemini-3.5-flash\nStatus
+ : retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gemini-2.0-flash shutdown in 7 days
@@ -2737,8 +2737,8 @@ BEGIN:VEVENT
 SUMMARY:[Gemini] Model deprecation: gemini-2.0-flash-001
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-DESCRIPTION:Model: gemini-2.0-flash-001\nReplacement: gemini-2.5-flash\nSt
- atus: deprecated
+DESCRIPTION:Model: gemini-2.0-flash-001\nReplacement: gemini-3.5-flash\nSt
+ atus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gemini-2.0-flash-001 shutdown in 7 days
@@ -2754,8 +2754,8 @@ BEGIN:VEVENT
 SUMMARY:[Gemini] Model deprecation: gemini-2.0-flash-lite
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-DESCRIPTION:Model: gemini-2.0-flash-lite\nReplacement: gemini-2.5-flash-li
- te\nStatus: deprecated
+DESCRIPTION:Model: gemini-2.0-flash-lite\nReplacement: gemini-3.1-flash-li
+ te\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gemini-2.0-flash-lite shutdown in 7 days
@@ -2771,8 +2771,8 @@ BEGIN:VEVENT
 SUMMARY:[Gemini] Model deprecation: gemini-2.0-flash-lite-001
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
-DESCRIPTION:Model: gemini-2.0-flash-lite-001\nReplacement: gemini-2.5-flas
- h-lite\nStatus: deprecated
+DESCRIPTION:Model: gemini-2.0-flash-lite-001\nReplacement: gemini-3.1-flas
+ h-lite\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gemini-2.0-flash-lite-001 shutdown in 7 days

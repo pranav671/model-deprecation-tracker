@@ -4345,9 +4345,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-1
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DESCRIPTION:Model: claude-opus-4-1\nStatus: active
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+DESCRIPTION:Model: claude-opus-4-1\nReplacement: claude-opus-4-8\nStatus: 
+ active
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:claude-opus-4-1 shutdown in 7 days

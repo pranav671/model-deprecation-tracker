@@ -2488,8 +2488,8 @@
     "model_name": "claude-opus-4-1",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-10-19",
-    "replacement": "",
+    "shutdown_date": "2026-08-05",
+    "replacement": "claude-opus-4-8",
     "status": "active"
   },
   {

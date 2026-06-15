@@ -19,15 +19,15 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-06-14*
+*Last updated: 2026-06-15*
 
 ### Anthropic
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
 | claude-3-haiku-20240307 |  | retired | 2026-02-19 | 🔴 2026-04-20 | claude-haiku-4-5-20251001 |
-| claude-opus-4-20250514 |  | deprecated | 2026-04-14 | 🟡 2026-06-15 | claude-opus-4-8 |
-| claude-sonnet-4-20250514 |  | deprecated | 2026-04-14 | 🟡 2026-06-15 | claude-sonnet-4-6 |
+| claude-opus-4-20250514 |  | retired | 2026-04-14 | 🔴 2026-06-15 | claude-opus-4-8 |
+| claude-sonnet-4-20250514 |  | retired | 2026-04-14 | 🔴 2026-06-15 | claude-sonnet-4-6 |
 | claude-opus-4-1-20250805 |  | deprecated | 2026-06-05 | 2026-08-05 | claude-opus-4-8 |
 | claude-sonnet-4-5-20250929 |  | active | TBD | 2026-09-29 |  |
 | claude-haiku-4-5-20251001 |  | active | TBD | 2026-10-15 |  |
@@ -60,8 +60,8 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-5.2-chat (2025-12-11) |  | active | TBD | 🟡 2026-06-29 | gpt-chat-latest |
 | gpt-5.2-chat (2026-02-10) |  | active | TBD | 🟡 2026-06-29 | gpt-chat-latest |
 | gpt-5.3-chat (2026-03-03) |  | active | TBD | 🟡 2026-06-29 | gpt-chat-latest |
-| o1 (2024-12-17) |  | deprecated | TBD | 2026-07-15 |  |
-| sora-2 (2025-10-06) |  | active | TBD | 2026-07-15 | sora-2 (2025-12-08) |
+| o1 (2024-12-17) |  | deprecated | TBD | 🟡 2026-07-15 |  |
+| sora-2 (2025-10-06) |  | active | TBD | 🟡 2026-07-15 | sora-2 (2025-12-08) |
 | gpt-audio-mini (2025-10-06) |  | active | TBD | 2026-07-23 |  |
 | gpt-realtime-mini (2025-10-06) |  | active | TBD | 2026-07-23 |  |
 | o3-mini (2025-01-31) |  | deprecated | TBD | 2026-08-02 | o4-mini |
@@ -133,12 +133,15 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gemini-2.0-flash-001 |  | retired | TBD | 🔴 2026-06-01 | gemini-3.5-flash |
 | gemini-2.0-flash-lite |  | retired | TBD | 🔴 2026-06-01 | gemini-3.1-flash-lite |
 | gemini-2.0-flash-lite-001 |  | retired | TBD | 🔴 2026-06-01 | gemini-3.1-flash-lite |
-| imagen-4.0-generate-001 |  | deprecated | TBD | 🟡 2026-06-24 | gemini-3-pro-image-preview orgemini-2.5-flash-image |
-| imagen-4.0-ultra-generate-001 |  | deprecated | TBD | 🟡 2026-06-24 | gemini-3-pro-image-preview orgemini-2.5-flash-image |
-| imagen-4.0-fast-generate-001 |  | deprecated | TBD | 🟡 2026-06-24 | gemini-3-pro-image-preview orgemini-2.5-flash-image |
 | gemini-3.1-flash-image-preview |  | deprecated | TBD | 🟡 2026-06-25 | gemini-3.1-flash-image |
 | gemini-3-pro-image-preview |  | deprecated | TBD | 🟡 2026-06-25 | gemini-3-pro-image |
+| veo-3.0-generate-001 |  | deprecated | TBD | 🟡 2026-06-30 | veo-3.1-generate-previewor the GA models on the Gemini Enterprise Agent Platform |
+| veo-3.0-fast-generate-001 |  | deprecated | TBD | 🟡 2026-06-30 | veo-3.1-fast-generate-previewor the GA models on the Gemini Enterprise Agent Platform |
+| veo-2.0-generate-001 |  | deprecated | TBD | 🟡 2026-06-30 | veo-3.1-generate-previewor the GA models on the Gemini Enterprise Agent Platform |
 | gemini-embedding-001 |  | deprecated | TBD | 🟡 2026-07-14 | gemini-embedding-2 |
+| imagen-4.0-generate-001 |  | deprecated | TBD | 2026-08-17 | gemini-3.1-flash-image |
+| imagen-4.0-ultra-generate-001 |  | deprecated | TBD | 2026-08-17 | gemini-3.1-flash-image |
+| imagen-4.0-fast-generate-001 |  | deprecated | TBD | 2026-08-17 | gemini-3.1-flash-image |
 | gemini-2.5-flash-image |  | deprecated | TBD | 2026-10-02 | gemini-3.1-flash-image-preview |
 | gemini-2.5-pro |  | deprecated | TBD | 2026-10-16 | gemini-3.1-pro-preview |
 | gemini-2.5-flash |  | deprecated | TBD | 2026-10-16 | gemini-3.5-flash |

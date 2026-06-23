@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-06-22*
+*Last updated: 2026-06-23*
 
 ### Anthropic
 
@@ -54,16 +54,17 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
+| gpt-4o (2024-08-06-ev3) |  | retired | TBD | 🔴 2026-03-31 | gpt-5.1 |
+| gpt-5-chat (2025-10-03) |  | retired | TBD | 🔴 2026-05-13 | gpt-chat-latest |
+| gpt-5.2-chat (2025-12-11) |  | retired | TBD | 🔴 2026-05-13 | gpt-chat-latest |
 | gpt-5-chat (2025-08-07) |  | active | TBD | 🟡 2026-06-29 | gpt-chat-latest |
-| gpt-5-chat (2025-10-03) |  | active | TBD | 🟡 2026-06-29 | gpt-chat-latest |
 | gpt-5.1-chat (2025-11-13) |  | active | TBD | 🟡 2026-06-29 | gpt-chat-latest |
-| gpt-5.2-chat (2025-12-11) |  | active | TBD | 🟡 2026-06-29 | gpt-chat-latest |
 | gpt-5.2-chat (2026-02-10) |  | active | TBD | 🟡 2026-06-29 | gpt-chat-latest |
 | gpt-5.3-chat (2026-03-03) |  | active | TBD | 🟡 2026-06-29 | gpt-chat-latest |
 | o1 (2024-12-17) |  | deprecated | TBD | 🟡 2026-07-15 |  |
 | sora-2 (2025-10-06) |  | active | TBD | 🟡 2026-07-15 | sora-2 (2025-12-08) |
-| gpt-audio-mini (2025-10-06) |  | active | TBD | 2026-07-23 |  |
-| gpt-realtime-mini (2025-10-06) |  | active | TBD | 2026-07-23 |  |
+| gpt-audio-mini (2025-10-06) |  | active | TBD | 🟡 2026-07-23 |  |
+| gpt-realtime-mini (2025-10-06) |  | active | TBD | 🟡 2026-07-23 |  |
 | o3-mini (2025-01-31) |  | deprecated | TBD | 2026-08-02 | o4-mini |
 | sora-2 (2025-12-08) |  | active | TBD | 2026-09-15 |  |
 | o1-pro (2025-03-19) |  | active | TBD | 2026-09-18 |  |
@@ -71,18 +72,18 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-4o (2024-08-06) |  | deprecated | TBD | 2026-10-01 | gpt-5.1 |
 | gpt-4o (2024-11-20) |  | active | TBD | 2026-10-01 | gpt-5.1 |
 | gpt-4o-mini (2024-07-18) |  | active | TBD | 2026-10-01 | gpt-4.1-mini |
-| gpt-4.1 (2025-04-14) |  | active | TBD | 2026-10-14 |  |
-| gpt-4.1-mini (2025-04-14) |  | active | TBD | 2026-10-14 |  |
-| gpt-4.1-nano (2025-04-14) |  | active | TBD | 2026-10-14 |  |
+| gpt-4.1 (2025-04-14) |  | deprecated | TBD | 2026-10-14 |  |
+| gpt-4.1-mini (2025-04-14) |  | deprecated | TBD | 2026-10-14 |  |
+| gpt-4.1-nano (2025-04-14) |  | deprecated | TBD | 2026-10-14 |  |
 | gpt-4o-mini-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | gpt-4o-mini-tts (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | gpt-4o-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | gpt-4o-transcribe-diarize (2025-10-15) |  | active | TBD | 2026-10-15 |  |
 | o3 (2025-04-16) |  | active | TBD | 2026-10-16 |  |
-| o4-mini (2025-04-16) |  | active | TBD | 2026-10-16 |  |
+| o4-mini (2025-04-16) |  | deprecated | TBD | 2026-10-16 |  |
 | gpt-image-1 (2025-04-15) |  | active | TBD | 2026-10-23 |  |
 | gpt-chat-latest (2026-05-05) |  | active | TBD | 2026-11-05 |  |
-| codex-mini (2025-05-16) |  | active | TBD | 2026-11-15 |  |
+| codex-mini (2025-05-16) |  | deprecated | TBD | 2026-11-15 |  |
 | gpt-5.1-codex-max (2025-12-04) |  | active | TBD | 2026-12-05 |  |
 | o3-pro (2025-06-10) |  | active | TBD | 2026-12-10 |  |
 | gpt-5.2 (2025-12-11) |  | active | TBD | 2026-12-12 |  |
@@ -164,21 +165,21 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | dall-e-2 |  | deprecated | TBD | 🔴 2026-05-12 | gpt-image-2, gpt-image-1, or gpt-image-1-mini |
 | dall-e-3 |  | deprecated | TBD | 🔴 2026-05-12 | gpt-image-2, gpt-image-1, or gpt-image-1-mini |
 | OpenAI-Beta: realtime=v1 |  | deprecated | TBD | 🔴 2026-05-12 | Realtime API |
-| computer-use-preview-2025-03-11 | computer-use-preview |  | deprecated | TBD | 2026-07-23 | gpt-5.4-mini |
-| gpt-4o-mini-search-preview-2025-03-11 |  | deprecated | TBD | 2026-07-23 | gpt-5.4-mini |
-| gpt-4o-mini-tts-2025-03-20 |  | deprecated | TBD | 2026-07-23 | gpt-4o-mini-tts-2025-12-15 |
-| gpt-4o-search-preview-2025-03-11 |  | deprecated | TBD | 2026-07-23 | gpt-5.4-mini |
-| gpt-5-chat-latest |  | deprecated | TBD | 2026-07-23 | gpt-5.5 |
-| gpt-5-codex |  | deprecated | TBD | 2026-07-23 | gpt-5.5 |
-| gpt-5.1-chat-latest |  | deprecated | TBD | 2026-07-23 | gpt-5.5 |
-| gpt-5.1-codex |  | deprecated | TBD | 2026-07-23 | gpt-5.5 |
-| gpt-5.1-codex-max |  | deprecated | TBD | 2026-07-23 | gpt-5.5 |
-| gpt-5.1-codex-mini |  | deprecated | TBD | 2026-07-23 | gpt-5.4-mini |
-| gpt-audio-mini-2025-10-06 |  | deprecated | TBD | 2026-07-23 | gpt-audio-1.5 |
-| gpt-realtime-mini-2025-10-06 |  | deprecated | TBD | 2026-07-23 | gpt-realtime-mini |
-| o3-deep-research-2025-06-26 | o3-deep-research |  | deprecated | TBD | 2026-07-23 | gpt-5.5-pro |
-| o4-mini-deep-research-2025-06-26 | o4-mini-deep-research |  | deprecated | TBD | 2026-07-23 | gpt-5.5-pro |
-| gpt-5.2-codex |  | deprecated | TBD | 2026-07-23 | gpt-5.5 |
+| computer-use-preview-2025-03-11 | computer-use-preview |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.4-mini |
+| gpt-4o-mini-search-preview-2025-03-11 |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.4-mini |
+| gpt-4o-mini-tts-2025-03-20 |  | deprecated | TBD | 🟡 2026-07-23 | gpt-4o-mini-tts-2025-12-15 |
+| gpt-4o-search-preview-2025-03-11 |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.4-mini |
+| gpt-5-chat-latest |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.5 |
+| gpt-5-codex |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.5 |
+| gpt-5.1-chat-latest |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.5 |
+| gpt-5.1-codex |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.5 |
+| gpt-5.1-codex-max |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.5 |
+| gpt-5.1-codex-mini |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.4-mini |
+| gpt-audio-mini-2025-10-06 |  | deprecated | TBD | 🟡 2026-07-23 | gpt-audio-1.5 |
+| gpt-realtime-mini-2025-10-06 |  | deprecated | TBD | 🟡 2026-07-23 | gpt-realtime-mini |
+| o3-deep-research-2025-06-26 | o3-deep-research |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.5-pro |
+| o4-mini-deep-research-2025-06-26 | o4-mini-deep-research |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.5-pro |
+| gpt-5.2-codex |  | deprecated | TBD | 🟡 2026-07-23 | gpt-5.5 |
 | gpt-5.2-chat-latest |  | deprecated | TBD | 2026-08-10 | gpt-5.5 |
 | gpt-5.3-chat-latest |  | deprecated | TBD | 2026-08-10 | gpt-5.5 |
 | Assistants API |  | deprecated | TBD | 2026-08-26 | Responses API and Conversations API |

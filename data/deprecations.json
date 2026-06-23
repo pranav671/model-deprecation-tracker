@@ -1923,7 +1923,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-11-15",
     "replacement": "",
-    "status": "active"
+    "status": "deprecated"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
@@ -1932,7 +1932,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-14",
     "replacement": "",
-    "status": "active"
+    "status": "deprecated"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
@@ -1941,7 +1941,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-14",
     "replacement": "",
-    "status": "active"
+    "status": "deprecated"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
@@ -1950,7 +1950,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-14",
     "replacement": "",
-    "status": "active"
+    "status": "deprecated"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
@@ -1969,6 +1969,15 @@
     "shutdown_date": "2026-10-01",
     "replacement": "gpt-5.1",
     "status": "deprecated"
+  },
+  {
+    "provider": "Azure Foundry (OpenAI)",
+    "model_name": "gpt-4o (2024-08-06-ev3)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2026-03-31",
+    "replacement": "gpt-5.1",
+    "status": "retired"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
@@ -2065,9 +2074,9 @@
     "model_name": "gpt-5-chat (2025-10-03)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-06-29",
+    "shutdown_date": "2026-05-13",
     "replacement": "gpt-chat-latest",
-    "status": "active"
+    "status": "retired"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
@@ -2164,9 +2173,9 @@
     "model_name": "gpt-5.2-chat (2025-12-11)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-06-29",
+    "shutdown_date": "2026-05-13",
     "replacement": "gpt-chat-latest",
-    "status": "active"
+    "status": "retired"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
@@ -2436,7 +2445,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-16",
     "replacement": "",
-    "status": "active"
+    "status": "deprecated"
   },
   {
     "provider": "Azure Foundry (OpenAI)",

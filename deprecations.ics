@@ -3338,7 +3338,7 @@ SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: codex-mini (2025-05-16
  )
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
-DESCRIPTION:Model: codex-mini (2025-05-16)\nStatus: active
+DESCRIPTION:Model: codex-mini (2025-05-16)\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:codex-mini (2025-05-16) shutdown in 7 days
@@ -3354,7 +3354,7 @@ BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-4.1 (2025-04-14)
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-DESCRIPTION:Model: gpt-4.1 (2025-04-14)\nStatus: active
+DESCRIPTION:Model: gpt-4.1 (2025-04-14)\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4.1 (2025-04-14) shutdown in 7 days
@@ -3371,7 +3371,7 @@ SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-4.1-mini (2025-04-
  14)
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-DESCRIPTION:Model: gpt-4.1-mini (2025-04-14)\nStatus: active
+DESCRIPTION:Model: gpt-4.1-mini (2025-04-14)\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4.1-mini (2025-04-14) shutdown in 7 days
@@ -3388,7 +3388,7 @@ SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-4.1-nano (2025-04-
  14)
 DTSTART;VALUE=DATE:20261014
 DTEND;VALUE=DATE:20261015
-DESCRIPTION:Model: gpt-4.1-nano (2025-04-14)\nStatus: active
+DESCRIPTION:Model: gpt-4.1-nano (2025-04-14)\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4.1-nano (2025-04-14) shutdown in 7 days
@@ -3431,6 +3431,24 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4o (2024-08-06) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-4o (2024-08-06-ev3
+ )
+DTSTART;VALUE=DATE:20260331
+DTEND;VALUE=DATE:20260401
+DESCRIPTION:Model: gpt-4o (2024-08-06-ev3)\nReplacement: gpt-5.1\nStatus: 
+ retired
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-4o (2024-08-06-ev3) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-4o (2024-08-06-ev3) shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -3608,10 +3626,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-5-chat (2025-10-03
  )
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
 DESCRIPTION:Model: gpt-5-chat (2025-10-03)\nReplacement: gpt-chat-latest\n
- Status: active
+ Status: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-5-chat (2025-10-03) shutdown in 7 days
@@ -3794,10 +3812,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-5.2-chat (2025-12-
  11)
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
+DTSTART;VALUE=DATE:20260513
+DTEND;VALUE=DATE:20260514
 DESCRIPTION:Model: gpt-5.2-chat (2025-12-11)\nReplacement: gpt-chat-latest
- \nStatus: active
+ \nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-5.2-chat (2025-12-11) shutdown in 7 days
@@ -4301,7 +4319,7 @@ BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: o4-mini (2025-04-16)
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261017
-DESCRIPTION:Model: o4-mini (2025-04-16)\nStatus: active
+DESCRIPTION:Model: o4-mini (2025-04-16)\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:o4-mini (2025-04-16) shutdown in 7 days

@@ -2463,87 +2463,89 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Vertex AI] Model deprecation: Anthropic's Claude 3 Haiku
+SUMMARY:[Vertex AI] Model deprecation: Anthropic's Claude 3 Haiku on Googl
+ e Cloud
 DTSTART;VALUE=DATE:20260823
 DTEND;VALUE=DATE:20260824
-DESCRIPTION:Model: Anthropic's Claude 3 Haiku\nModel ID: Anthropic's Claud
- e 3 Haiku\nStatus: deprecated
+DESCRIPTION:Model: Anthropic's Claude 3 Haiku on Google Cloud\nModel ID: A
+ nthropic's Claude 3 Haiku on Google Cloud\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Anthropic's Claude 3 Haiku shutdown in 7 days
+DESCRIPTION:Anthropic's Claude 3 Haiku on Google Cloud shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Anthropic's Claude 3 Haiku shutdown in 30 days
+DESCRIPTION:Anthropic's Claude 3 Haiku on Google Cloud shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Vertex AI] Model deprecation: Claude 3.5 Haiku
+SUMMARY:[Vertex AI] Model deprecation: Claude 3.5 Haiku on Google Cloud
 DTSTART;VALUE=DATE:20260705
 DTEND;VALUE=DATE:20260706
-DESCRIPTION:Model: Claude 3.5 Haiku\nModel ID: Claude 3.5 Haiku\nStatus: r
- etired
+DESCRIPTION:Model: Claude 3.5 Haiku on Google Cloud\nModel ID: Claude 3.5 
+ Haiku on Google Cloud\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Claude 3.5 Haiku shutdown in 7 days
+DESCRIPTION:Claude 3.5 Haiku on Google Cloud shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Claude 3.5 Haiku shutdown in 30 days
+DESCRIPTION:Claude 3.5 Haiku on Google Cloud shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Vertex AI] Model deprecation: Claude 3.7 Sonnet
+SUMMARY:[Vertex AI] Model deprecation: Claude 3.7 Sonnet on Google Cloud
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260512
-DESCRIPTION:Model: Claude 3.7 Sonnet\nModel ID: Claude 3.7 Sonnet\nStatus:
-  retired
+DESCRIPTION:Model: Claude 3.7 Sonnet on Google Cloud\nModel ID: Claude 3.7
+  Sonnet on Google Cloud\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Claude 3.7 Sonnet shutdown in 7 days
+DESCRIPTION:Claude 3.7 Sonnet on Google Cloud shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Claude 3.7 Sonnet shutdown in 30 days
+DESCRIPTION:Claude 3.7 Sonnet on Google Cloud shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Vertex AI] Model deprecation: Claude 3.5 Sonnet v2
+SUMMARY:[Vertex AI] Model deprecation: Claude 3.5 Sonnet v2 on Google Clou
+ d
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
-DESCRIPTION:Model: Claude 3.5 Sonnet v2\nModel ID: Claude 3.5 Sonnet v2\nS
- tatus: retired
+DESCRIPTION:Model: Claude 3.5 Sonnet v2 on Google Cloud\nModel ID: Claude 
+ 3.5 Sonnet v2 on Google Cloud\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Claude 3.5 Sonnet v2 shutdown in 7 days
+DESCRIPTION:Claude 3.5 Sonnet v2 on Google Cloud shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Claude 3.5 Sonnet v2 shutdown in 30 days
+DESCRIPTION:Claude 3.5 Sonnet v2 on Google Cloud shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Vertex AI] Model deprecation: Claude 3.5 Sonnet
+SUMMARY:[Vertex AI] Model deprecation: Claude 3.5 Sonnet on Google Cloud
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
-DESCRIPTION:Model: Claude 3.5 Sonnet\nModel ID: Claude 3.5 Sonnet\nStatus:
-  retired
+DESCRIPTION:Model: Claude 3.5 Sonnet on Google Cloud\nModel ID: Claude 3.5
+  Sonnet on Google Cloud\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Claude 3.5 Sonnet shutdown in 7 days
+DESCRIPTION:Claude 3.5 Sonnet on Google Cloud shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Claude 3.5 Sonnet shutdown in 30 days
+DESCRIPTION:Claude 3.5 Sonnet on Google Cloud shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -2582,19 +2584,19 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Vertex AI] Model deprecation: Claude 3 Opus
+SUMMARY:[Vertex AI] Model deprecation: Claude 3 Opus on Google Cloud
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
-DESCRIPTION:Model: Claude 3 Opus\nModel ID: Claude 3 Opus\nStatus: depreca
- ted
+DESCRIPTION:Model: Claude 3 Opus on Google Cloud\nModel ID: Claude 3 Opus 
+ on Google Cloud\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Claude 3 Opus shutdown in 7 days
+DESCRIPTION:Claude 3 Opus on Google Cloud shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:Claude 3 Opus shutdown in 30 days
+DESCRIPTION:Claude 3 Opus on Google Cloud shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -4033,8 +4035,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-audio-mini (2025-1
  0-06)
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
 DESCRIPTION:Model: gpt-audio-mini (2025-10-06)\nStatus: active
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4067,8 +4069,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-chat-latest (2026-
  05-05)
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261106
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
 DESCRIPTION:Model: gpt-chat-latest (2026-05-05)\nStatus: active
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4078,6 +4080,40 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-chat-latest (2026-05-05) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-chat-latest (2026-
+ 05-28)
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DESCRIPTION:Model: gpt-chat-latest (2026-05-28)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-chat-latest (2026-05-28) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-chat-latest (2026-05-28) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-chat-latest (2026-
+ 06-24)
+DTSTART;VALUE=DATE:20260828
+DTEND;VALUE=DATE:20260829
+DESCRIPTION:Model: gpt-chat-latest (2026-06-24)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-chat-latest (2026-06-24) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-chat-latest (2026-06-24) shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -4201,6 +4237,40 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-realtime-2.1 (2026
+ -07-07)
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+DESCRIPTION:Model: gpt-realtime-2.1 (2026-07-07)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-realtime-2.1 (2026-07-07) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-realtime-2.1 (2026-07-07) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-realtime-2.1-mini 
+ (2026-07-07)
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+DESCRIPTION:Model: gpt-realtime-2.1-mini (2026-07-07)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-realtime-2.1-mini (2026-07-07) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-realtime-2.1-mini (2026-07-07) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-realtime-mini (202
  5-10-06)
 DTSTART;VALUE=DATE:20260723
@@ -4236,8 +4306,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: o1 (2024-12-17)
-DTSTART;VALUE=DATE:20260715
-DTEND;VALUE=DATE:20260716
+DTSTART;VALUE=DATE:20260916
+DTEND;VALUE=DATE:20260917
 DESCRIPTION:Model: o1 (2024-12-17)\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4301,8 +4371,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: o3-mini (2025-01-31)
-DTSTART;VALUE=DATE:20260802
-DTEND;VALUE=DATE:20260803
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
 DESCRIPTION:Model: o3-mini (2025-01-31)\nReplacement: o4-mini\nStatus: dep
  recated
 BEGIN:VALARM

@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-07-07*
+*Last updated: 2026-07-08*
 
 ### Anthropic
 
@@ -60,17 +60,20 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-5.1-chat (2025-11-13) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | gpt-5.2-chat (2026-02-10) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | gpt-5.3-chat (2026-03-03) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
-| o1 (2024-12-17) |  | deprecated | TBD | 🟡 2026-07-15 |  |
 | sora-2 (2025-10-06) |  | active | TBD | 🟡 2026-07-15 | sora-2 (2025-12-08) |
-| gpt-audio-mini (2025-10-06) |  | active | TBD | 🟡 2026-07-23 |  |
 | gpt-realtime-mini (2025-10-06) |  | active | TBD | 🟡 2026-07-23 |  |
-| o3-mini (2025-01-31) |  | deprecated | TBD | 🟡 2026-08-02 | o4-mini |
+| gpt-chat-latest (2026-05-05) |  | active | TBD | 🟡 2026-08-05 |  |
+| gpt-chat-latest (2026-05-28) |  | active | TBD | 2026-08-28 |  |
+| gpt-chat-latest (2026-06-24) |  | active | TBD | 2026-08-28 |  |
 | sora-2 (2025-12-08) |  | active | TBD | 2026-09-15 |  |
+| o1 (2024-12-17) |  | deprecated | TBD | 2026-09-16 |  |
 | o1-pro (2025-03-19) |  | active | TBD | 2026-09-18 |  |
+| gpt-audio-mini (2025-10-06) |  | active | TBD | 2026-09-21 |  |
 | gpt-4o (2024-05-13) |  | deprecated | TBD | 2026-10-01 | gpt-5.1 |
 | gpt-4o (2024-08-06) |  | deprecated | TBD | 2026-10-01 | gpt-5.1 |
 | gpt-4o (2024-11-20) |  | deprecated | TBD | 2026-10-01 | gpt-5.1 |
 | gpt-4o-mini (2024-07-18) |  | deprecated | TBD | 2026-10-01 | gpt-4.1-mini |
+| o3-mini (2025-01-31) |  | deprecated | TBD | 2026-10-01 | o4-mini |
 | gpt-4.1 (2025-04-14) |  | deprecated | TBD | 2026-10-14 |  |
 | gpt-4.1-mini (2025-04-14) |  | deprecated | TBD | 2026-10-14 |  |
 | gpt-4.1-nano (2025-04-14) |  | deprecated | TBD | 2026-10-14 |  |
@@ -81,7 +84,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | o3 (2025-04-16) |  | active | TBD | 2026-10-16 |  |
 | o4-mini (2025-04-16) |  | deprecated | TBD | 2026-10-16 |  |
 | gpt-image-1 (2025-04-15) |  | active | TBD | 2026-10-23 |  |
-| gpt-chat-latest (2026-05-05) |  | active | TBD | 2026-11-05 |  |
 | codex-mini (2025-05-16) |  | deprecated | TBD | 2026-11-15 |  |
 | gpt-5.1-codex-max (2025-12-04) |  | active | TBD | 2026-12-05 |  |
 | o3-pro (2025-06-10) |  | active | TBD | 2026-12-10 |  |
@@ -121,6 +123,8 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-5.1 (2025-11-13) |  | active | TBD | 2027-05-15 |  |
 | gpt-5.1-codex (2025-11-13) |  | active | TBD | 2027-05-15 |  |
 | gpt-5.1-codex-mini (2025-11-13) |  | active | TBD | 2027-05-15 |  |
+| gpt-realtime-2.1 (2026-07-07) |  | active | TBD | 2027-06-25 |  |
+| gpt-realtime-2.1-mini (2026-07-07) |  | active | TBD | 2027-06-25 |  |
 
 ### Gemini
 
@@ -220,10 +224,10 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| Claude 3.7 Sonnet | Claude 3.7 Sonnet | retired | 2026-11-11 | 🔴 2026-05-11 |  |
-| Claude 3.5 Haiku | Claude 3.5 Haiku | retired | 2026-01-05 | 🔴 2026-07-05 |  |
-| Claude 3 Opus | Claude 3 Opus | deprecated | 2026-06-30 | 🟡 2026-08-01 |  |
-| Anthropic's Claude 3 Haiku | Anthropic's Claude 3 Haiku | deprecated | 2026-02-23 | 2026-08-23 |  |
+| Claude 3.7 Sonnet on Google Cloud | Claude 3.7 Sonnet on Google Cloud | retired | 2026-11-11 | 🔴 2026-05-11 |  |
+| Claude 3.5 Haiku on Google Cloud | Claude 3.5 Haiku on Google Cloud | retired | 2026-01-05 | 🔴 2026-07-05 |  |
+| Claude 3 Opus on Google Cloud | Claude 3 Opus on Google Cloud | deprecated | 2026-06-30 | 🟡 2026-08-01 |  |
+| Anthropic's Claude 3 Haiku on Google Cloud | Anthropic's Claude 3 Haiku on Google Cloud | deprecated | 2026-02-23 | 2026-08-23 |  |
 
 <!-- DEPRECATION_TABLE_END -->
 

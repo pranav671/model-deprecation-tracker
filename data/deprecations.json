@@ -2116,15 +2116,6 @@
   },
   {
     "provider": "Azure Foundry (OpenAI)",
-    "model_name": "gpt-4o (2024-08-06-ev3)",
-    "model_id": "",
-    "deprecated_date": "",
-    "shutdown_date": "2026-03-31",
-    "replacement": "gpt-5.1",
-    "status": "retired"
-  },
-  {
-    "provider": "Azure Foundry (OpenAI)",
     "model_name": "gpt-4o (2024-11-20)",
     "model_id": "",
     "deprecated_date": "",

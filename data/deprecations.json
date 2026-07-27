@@ -2569,9 +2569,9 @@
     "model_name": "gpt-realtime-mini (2025-10-06)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-07-23",
+    "shutdown_date": "2026-09-21",
     "replacement": "",
-    "status": "retired"
+    "status": "active"
   },
   {
     "provider": "Azure Foundry (OpenAI)",

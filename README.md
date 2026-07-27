@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-07-26*
+*Last updated: 2026-07-27*
 
 ### Anthropic
 
@@ -63,13 +63,13 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-5.2-chat (2026-02-10) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | gpt-5.3-chat (2026-03-03) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | sora-2 (2025-10-06) |  | retired | TBD | 🔴 2026-07-15 | sora-2 (2025-12-08) |
-| gpt-realtime-mini (2025-10-06) |  | retired | TBD | 🔴 2026-07-23 |  |
 | gpt-chat-latest (2026-05-05) |  | active | TBD | 🟡 2026-08-05 |  |
 | gpt-chat-latest (2026-05-28) |  | active | TBD | 2026-08-28 |  |
 | gpt-chat-latest (2026-06-24) |  | active | TBD | 2026-08-28 |  |
 | gpt-realtime-2 (2026-05-06) |  | active | TBD | 2026-08-31 |  |
 | sora-2 (2025-12-08) |  | active | TBD | 2026-09-15 |  |
 | gpt-audio-mini (2025-10-06) |  | active | TBD | 2026-09-21 |  |
+| gpt-realtime-mini (2025-10-06) |  | active | TBD | 2026-09-21 |  |
 | gpt-4o (2024-05-13) |  | deprecated | TBD | 2026-10-01 | gpt-5.1 |
 | o3-mini (2025-01-31) |  | deprecated | TBD | 2026-10-01 | o4-mini |
 | gpt-4.1-nano (2025-04-14) |  | deprecated | TBD | 2026-10-14 |  |
@@ -187,7 +187,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-5.2-codex |  | deprecated | TBD | 🔴 2026-07-23 | gpt-5.6-sol |
 | gpt-5.2-chat-latest |  | deprecated | TBD | 🟡 2026-08-10 | gpt-5.6-sol |
 | gpt-5.3-chat-latest |  | deprecated | TBD | 🟡 2026-08-10 | gpt-5.6-sol |
-| Assistants API |  | deprecated | TBD | 2026-08-26 | Responses API and Conversations API |
+| Assistants API |  | deprecated | TBD | 🟡 2026-08-26 | Responses API and Conversations API |
 | Videos API |  | deprecated | TBD | 2026-09-24 | --- |
 | sora-2 |  | deprecated | TBD | 2026-09-24 | --- |
 | sora-2-pro |  | deprecated | TBD | 2026-09-24 | --- |

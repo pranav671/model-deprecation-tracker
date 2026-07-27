@@ -4512,9 +4512,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-realtime-mini (202
  5-10-06)
-DTSTART;VALUE=DATE:20260723
-DTEND;VALUE=DATE:20260724
-DESCRIPTION:Model: gpt-realtime-mini (2025-10-06)\nStatus: retired
+DTSTART;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
+DESCRIPTION:Model: gpt-realtime-mini (2025-10-06)\nStatus: active
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-realtime-mini (2025-10-06) shutdown in 7 days

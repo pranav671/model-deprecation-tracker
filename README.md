@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-07-29*
+*Last updated: 2026-07-30*
 
 ### Anthropic
 
@@ -68,64 +68,64 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-chat-latest (2026-06-24) |  | active | TBD | 🟡 2026-08-28 |  |
 | gpt-realtime-2 (2026-05-06) |  | active | TBD | 2026-08-31 |  |
 | sora-2 (2025-12-08) |  | active | TBD | 2026-09-15 |  |
-| gpt-audio-mini (2025-10-06) |  | active | TBD | 2026-09-21 |  |
-| gpt-realtime-mini (2025-10-06) |  | active | TBD | 2026-09-21 |  |
 | gpt-4o (2024-05-13) |  | deprecated | TBD | 2026-10-01 | gpt-5.1 |
 | o3-mini (2025-01-31) |  | deprecated | TBD | 2026-10-01 | o4-mini |
 | gpt-4.1-nano (2025-04-14) |  | deprecated | TBD | 2026-10-14 |  |
 | gpt-4o-mini-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | gpt-4o-mini-tts (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | gpt-4o-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |
-| gpt-4o-transcribe-diarize (2025-10-15) |  | active | TBD | 2026-10-15 |  |
 | o4-mini (2025-04-16) |  | deprecated | TBD | 2026-10-16 |  |
 | o1 (2024-12-17) |  | deprecated | TBD | 2026-10-21 | gpt-5.6-sol |
 | o1-pro (2025-03-19) |  | active | TBD | 2026-10-21 | gpt-5.6-sol |
 | o3 (2025-04-16) |  | active | TBD | 2026-10-21 | gpt-5.6-sol |
 | gpt-image-1 (2025-04-15) |  | active | TBD | 2026-10-23 |  |
 | codex-mini (2025-05-16) |  | deprecated | TBD | 2026-11-15 |  |
-| gpt-5.1-codex-max (2025-12-04) |  | active | TBD | 2026-12-05 |  |
-| o3-pro (2025-06-10) |  | active | TBD | 2026-12-10 |  |
-| gpt-5.2 (2025-12-11) |  | active | TBD | 2026-12-12 |  |
-| gpt-4o-mini-transcribe (2025-12-15) |  | active | TBD | 2026-12-15 |  |
-| gpt-4o-mini-tts (2025-12-15) |  | active | TBD | 2026-12-15 |  |
-| gpt-audio-mini (2025-12-15) |  | active | TBD | 2026-12-15 |  |
-| gpt-realtime-mini (2025-12-15) |  | active | TBD | 2026-12-15 |  |
 | tts (001) |  | active | TBD | 2026-12-15 |  |
 | tts-hd (001) |  | active | TBD | 2026-12-15 |  |
 | whisper (001) |  | active | TBD | 2026-12-15 |  |
-| gpt-image-1.5 (2025-12-16) |  | active | TBD | 2026-12-16 |  |
+| o3-pro (2025-06-10) |  | active | TBD | 2026-12-17 |  |
 | o3-deep-research (2025-06-26) |  | active | TBD | 2026-12-26 |  |
-| gpt-5.2-codex (2026-01-14) |  | active | TBD | 2027-01-14 |  |
-| gpt-5 (2025-08-07) |  | active | TBD | 2027-02-06 |  |
-| gpt-5-mini (2025-08-07) |  | active | TBD | 2027-02-06 |  |
-| gpt-5-nano (2025-08-07) |  | active | TBD | 2027-02-06 |  |
-| gpt-audio-1.5 (2026-02-23) |  | active | TBD | 2027-02-23 |  |
-| gpt-realtime-1.5 (2026-02-23) |  | active | TBD | 2027-02-23 |  |
-| gpt-5.3-codex (2026-02-24) |  | active | TBD | 2027-02-25 |  |
-| gpt-audio (2025-08-28) |  | active | TBD | 2027-02-28 |  |
-| gpt-realtime (2025-08-28) |  | active | TBD | 2027-02-28 |  |
-| gpt-5.4 (2026-03-05) |  | active | TBD | 2027-03-05 |  |
-| gpt-5.4-pro (2026-03-05) |  | active | TBD | 2027-03-06 |  |
+| gpt-5 (2025-08-07) |  | active | TBD | 2027-02-09 |  |
+| gpt-5-mini (2025-08-07) |  | active | TBD | 2027-02-09 |  |
+| gpt-5-nano (2025-08-07) |  | active | TBD | 2027-02-09 |  |
+| gpt-audio (2025-08-28) |  | active | TBD | 2027-03-02 |  |
+| gpt-realtime (2025-08-28) |  | active | TBD | 2027-03-02 |  |
 | gpt-5-codex (2025-09-15) |  | active | TBD | 2027-03-17 |  |
-| gpt-5.4-mini (2026-03-17) |  | active | TBD | 2027-03-18 |  |
-| gpt-5.4-nano (2026-03-17) |  | active | TBD | 2027-03-18 |  |
+| gpt-audio-mini (2025-10-06) |  | active | TBD | 2027-04-06 |  |
+| gpt-realtime-mini (2025-10-06) |  | active | TBD | 2027-04-06 |  |
 | gpt-5-pro (2025-10-06) |  | active | TBD | 2027-04-07 |  |
 | gpt-image-1-mini (2025-10-06) |  | active | TBD | 2027-04-07 |  |
 | gpt-4.1 (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
 | gpt-4.1-mini (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
 | gpt-4o (2024-08-06) |  | deprecated | TBD | 2027-04-14 | gpt-5.1 |
 | gpt-4o (2024-11-20) |  | deprecated | TBD | 2027-04-14 | gpt-5.1 |
-| gpt-4o-mini (2024-07-18) |  | deprecated | TBD | 2027-04-14 | gpt-4.1-mini |
-| gpt-image-2 (2026-04-21) |  | active | TBD | 2027-04-21 |  |
-| gpt-5.5 (2026-04-24) |  | active | TBD | 2027-04-23 |  |
+| gpt-4o-mini (2024-07-18) |  | deprecated | TBD | 2027-04-14 |  |
+| gpt-4o-transcribe-diarize (2025-10-15) |  | active | TBD | 2027-04-15 |  |
 | gpt-5.1 (2025-11-13) |  | active | TBD | 2027-05-15 |  |
 | gpt-5.1-codex (2025-11-13) |  | active | TBD | 2027-05-15 |  |
 | gpt-5.1-codex-mini (2025-11-13) |  | active | TBD | 2027-05-15 |  |
+| gpt-5.1-codex-max (2025-12-04) |  | active | TBD | 2027-05-18 |  |
+| gpt-5.2 (2025-12-11) |  | active | TBD | 2027-06-08 |  |
+| gpt-4o-mini-transcribe (2025-12-15) |  | active | TBD | 2027-06-15 |  |
+| gpt-4o-mini-tts (2025-12-15) |  | active | TBD | 2027-06-15 |  |
+| gpt-audio-mini (2025-12-15) |  | active | TBD | 2027-06-15 |  |
+| gpt-realtime-mini (2025-12-15) |  | active | TBD | 2027-06-15 |  |
+| gpt-image-1.5 (2025-12-16) |  | active | TBD | 2027-06-16 |  |
 | gpt-realtime-2.1 (2026-07-07) |  | active | TBD | 2027-06-25 |  |
 | gpt-realtime-2.1-mini (2026-07-07) |  | active | TBD | 2027-06-25 |  |
-| gpt-5.6-luna (2026-07-09) |  | active | TBD | 2027-07-09 |  |
-| gpt-5.6-sol (2026-07-09) |  | active | TBD | 2027-07-09 |  |
-| gpt-5.6-terra (2026-07-09) |  | active | TBD | 2027-07-09 |  |
+| gpt-5.2-codex (2026-01-14) |  | active | TBD | 2027-07-13 |  |
+| gpt-5.3-codex (2026-02-24) |  | active | TBD | 2027-08-24 |  |
+| gpt-audio-1.5 (2026-02-23) |  | active | TBD | 2027-08-24 |  |
+| gpt-realtime-1.5 (2026-02-23) |  | active | TBD | 2027-08-24 |  |
+| gpt-5.4 (2026-03-05) |  | active | TBD | 2027-09-02 |  |
+| gpt-5.4-pro (2026-03-05) |  | active | TBD | 2027-09-07 |  |
+| gpt-5.4-mini (2026-03-17) |  | active | TBD | 2027-09-21 |  |
+| gpt-5.4-nano (2026-03-17) |  | active | TBD | 2027-09-21 |  |
+| gpt-image-2 (2026-04-21) |  | active | TBD | 2027-10-21 |  |
+| gpt-5.5 (2026-04-24) |  | active | TBD | 2027-10-26 |  |
+| gpt-5.6-luna (2026-07-09) |  | active | TBD | 2028-01-11 |  |
+| gpt-5.6-sol (2026-07-09) |  | active | TBD | 2028-01-11 |  |
+| gpt-5.6-terra (2026-07-09) |  | active | TBD | 2028-01-11 |  |
 | text-embedding-3-large (1) |  | active | TBD | 2028-02-09 |  |
 | text-embedding-3-small (1) |  | active | TBD | 2028-02-09 |  |
 | text-embedding-ada-002 (1) |  | active | TBD | 2028-02-09 |  |
@@ -135,7 +135,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| gemini-robotics-er-1.5-preview |  | retired | TBD | 🔴 2026-04-30 | gemini-robotics-er-1.6-preview |
 | gemini-3.1-flash-lite-preview |  | retired | TBD | 🔴 2026-05-25 | gemini-3.1-flash-lite |
 | gemini-2.0-flash |  | retired | TBD | 🔴 2026-06-01 | gemini-3.6-flash |
 | gemini-2.0-flash-001 |  | retired | TBD | 🔴 2026-06-01 | gemini-3.6-flash |
@@ -150,6 +149,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | imagen-4.0-generate-001 |  | deprecated | TBD | 🟡 2026-08-17 | gemini-3.1-flash-image |
 | imagen-4.0-ultra-generate-001 |  | deprecated | TBD | 🟡 2026-08-17 | gemini-3.1-flash-image |
 | imagen-4.0-fast-generate-001 |  | deprecated | TBD | 🟡 2026-08-17 | gemini-3.1-flash-image |
+| gemini-robotics-er-1.6-preview |  | deprecated | TBD | 2026-08-31 | gemini-robotics-er-2-preview |
 | gemini-2.5-flash-image |  | deprecated | TBD | 2026-10-02 | gemini-3.1-flash-image-preview |
 | gemini-2.5-pro |  | deprecated | TBD | 2026-10-16 | gemini-3.1-pro-preview |
 | gemini-2.5-flash |  | deprecated | TBD | 2026-10-16 | gemini-3.6-flash |

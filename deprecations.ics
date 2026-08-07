@@ -5086,8 +5086,8 @@ BEGIN:VEVENT
 SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-1
 DTSTART;VALUE=DATE:20260805
 DTEND;VALUE=DATE:20260806
-DESCRIPTION:Model: claude-opus-4-1\nReplacement: claude-opus-4-8\nStatus: 
- retired
+DESCRIPTION:Model: claude-opus-4-1\nReplacement: claude-opus-5\nStatus: re
+ tired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:claude-opus-4-1 shutdown in 7 days

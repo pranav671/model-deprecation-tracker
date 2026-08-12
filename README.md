@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-08-11*
+*Last updated: 2026-08-12*
 
 ### Anthropic
 
@@ -56,8 +56,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| gpt-5-chat (2025-10-03) |  | retired | TBD | 🔴 2026-05-13 | gpt-chat-latest |
-| gpt-5.2-chat (2025-12-11) |  | retired | TBD | 🔴 2026-05-13 | gpt-chat-latest |
 | gpt-5-chat (2025-08-07) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | gpt-5.1-chat (2025-11-13) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | gpt-5.1-chat (2025-11-13) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |

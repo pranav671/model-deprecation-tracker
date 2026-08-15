@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-08-14*
+*Last updated: 2026-08-15*
 
 ### Anthropic
 
@@ -58,22 +58,17 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 |-------|----------|--------|------------|----------|-------------|
 | gpt-5-chat (2025-08-07) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | gpt-5.1-chat (2025-11-13) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
-| gpt-5.1-chat (2025-11-13) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | gpt-5.2-chat (2026-02-10) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | gpt-5.3-chat (2026-03-03) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | sora-2 (2025-10-06) |  | retired | TBD | 🔴 2026-07-15 | sora-2 (2025-12-08) |
 | gpt-chat-latest (2026-05-05) |  | retired | TBD | 🔴 2026-08-05 |  |
-| gpt-chat-latest (2026-05-05) |  | retired | TBD | 🔴 2026-08-05 |  |
 | gpt-chat-latest (2026-05-28) |  | active | TBD | 🟡 2026-08-28 |  |
-| gpt-chat-latest (2026-06-24) |  | active | TBD | 🟡 2026-08-28 |  |
-| gpt-chat-latest (2026-05-28) |  | active | TBD | 🟡 2026-08-28 |  |
-| gpt-chat-latest (2026-06-24) |  | active | TBD | 🟡 2026-08-28 |  |
 | gpt-realtime-2 (2026-05-06) |  | active | TBD | 🟡 2026-08-31 |  |
 | sora-2 (2025-12-08) |  | active | TBD | 2026-09-15 |  |
 | gpt-realtime-mini (2025-10-06) |  | active | TBD | 2026-09-21 |  |
+| gpt-chat-latest (2026-06-24) |  | active | TBD | 2026-09-24 |  |
 | gpt-4o (2024-05-13) |  | deprecated | TBD | 2026-10-01 | gpt-5.1 |
 | o3-mini (2025-01-31) |  | deprecated | TBD | 2026-10-01 | o4-mini |
-| gpt-4.1-nano (2025-04-14) |  | deprecated | TBD | 2026-10-14 |  |
 | gpt-4.1-nano (2025-04-14) |  | deprecated | TBD | 2026-10-14 |  |
 | gpt-4o-mini-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | gpt-4o-mini-tts (2025-03-20) |  | active | TBD | 2026-10-15 |  |
@@ -82,12 +77,9 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | o1 (2024-12-17) |  | deprecated | TBD | 2026-10-21 | gpt-5.6-sol |
 | o1-pro (2025-03-19) |  | active | TBD | 2026-10-21 | gpt-5.6-sol |
 | o3 (2025-04-16) |  | active | TBD | 2026-10-21 | gpt-5.6-sol |
-| o1 (2024-12-17) |  | deprecated | TBD | 2026-10-21 | gpt-5.6-sol |
-| o1-pro (2025-03-19) |  | active | TBD | 2026-10-21 | gpt-5.6-sol |
-| o3 (2025-04-16) |  | active | TBD | 2026-10-21 | gpt-5.6-sol |
 | gpt-image-1 (2025-04-15) |  | active | TBD | 2026-10-23 |  |
 | codex-mini (2025-05-16) |  | deprecated | TBD | 2026-11-15 |  |
-| codex-mini (2025-05-16) |  | deprecated | TBD | 2026-11-15 |  |
+| gpt-chat-latest (2026-08-06) |  | active | TBD | 2026-12-02 |  |
 | gpt-realtime-mini (2025-12-15) |  | active | TBD | 2026-12-15 |  |
 | tts (001) |  | active | TBD | 2026-12-15 |  |
 | tts-hd (001) |  | active | TBD | 2026-12-15 |  |
@@ -104,8 +96,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-realtime-mini (2025-10-06) |  | active | TBD | 2027-04-06 |  |
 | gpt-5-pro (2025-10-06) |  | active | TBD | 2027-04-07 |  |
 | gpt-image-1-mini (2025-10-06) |  | active | TBD | 2027-04-07 |  |
-| gpt-4.1 (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
-| gpt-4.1-mini (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
 | gpt-4.1 (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
 | gpt-4.1-mini (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
 | gpt-4o (2024-08-06) |  | deprecated | TBD | 2027-04-14 | gpt-5.1 |
@@ -137,10 +127,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-5.6-luna (2026-07-09) |  | active | TBD | 2028-01-11 |  |
 | gpt-5.6-sol (2026-07-09) |  | active | TBD | 2028-01-11 |  |
 | gpt-5.6-terra (2026-07-09) |  | active | TBD | 2028-01-11 |  |
-| text-embedding-3-large (1) |  | active | TBD | 2028-02-09 |  |
-| text-embedding-3-small (1) |  | active | TBD | 2028-02-09 |  |
-| text-embedding-ada-002 (1) |  | active | TBD | 2028-02-09 |  |
-| text-embedding-ada-002 (2) |  | active | TBD | 2028-02-09 |  |
 | text-embedding-3-large (1) |  | active | TBD | 2028-02-09 |  |
 | text-embedding-3-small (1) |  | active | TBD | 2028-02-09 |  |
 | text-embedding-ada-002 (1) |  | active | TBD | 2028-02-09 |  |

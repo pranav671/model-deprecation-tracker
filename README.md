@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-08-15*
+*Last updated: 2026-08-16*
 
 ### Anthropic
 
@@ -64,7 +64,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-chat-latest (2026-05-05) |  | retired | TBD | 🔴 2026-08-05 |  |
 | gpt-chat-latest (2026-05-28) |  | active | TBD | 🟡 2026-08-28 |  |
 | gpt-realtime-2 (2026-05-06) |  | active | TBD | 🟡 2026-08-31 |  |
-| sora-2 (2025-12-08) |  | active | TBD | 2026-09-15 |  |
+| sora-2 (2025-12-08) |  | active | TBD | 🟡 2026-09-15 |  |
 | gpt-realtime-mini (2025-10-06) |  | active | TBD | 2026-09-21 |  |
 | gpt-chat-latest (2026-06-24) |  | active | TBD | 2026-09-24 |  |
 | gpt-4o (2024-05-13) |  | deprecated | TBD | 2026-10-01 | gpt-5.1 |

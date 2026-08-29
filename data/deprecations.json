@@ -2800,7 +2800,34 @@
   },
   {
     "provider": "Azure Foundry (Anthropic)",
-    "model_name": "claude-haiku-4-5",
+    "model_name": "claude-sonnet-5 (2)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-06-30",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-sonnet-5 (1)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-06-30",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-sonnet-4-6 (1)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-02-10",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-sonnet-4-5 (1)",
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-19",
@@ -2809,43 +2836,43 @@
   },
   {
     "provider": "Azure Foundry (Anthropic)",
-    "model_name": "claude-mythos-preview (gated research preview)",
+    "model_name": "claude-opus-5 (2)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2027-04-02",
+    "shutdown_date": "2027-07-08",
     "replacement": "",
     "status": "active"
   },
   {
     "provider": "Azure Foundry (Anthropic)",
-    "model_name": "claude-opus-4-1",
+    "model_name": "claude-opus-5 (1)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-08-05",
-    "replacement": "claude-opus-5",
-    "status": "retired"
-  },
-  {
-    "provider": "Azure Foundry (Anthropic)",
-    "model_name": "claude-opus-4-5",
-    "model_id": "",
-    "deprecated_date": "",
-    "shutdown_date": "2026-10-19",
+    "shutdown_date": "2027-07-08",
     "replacement": "",
     "status": "active"
   },
   {
     "provider": "Azure Foundry (Anthropic)",
-    "model_name": "claude-opus-4-6",
+    "model_name": "claude-opus-4-8 (2)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2027-02-02",
+    "shutdown_date": "2027-09-01",
     "replacement": "",
     "status": "active"
   },
   {
     "provider": "Azure Foundry (Anthropic)",
-    "model_name": "claude-opus-4-7",
+    "model_name": "claude-opus-4-8 (1)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-09-01",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-opus-4-7 (1)",
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2027-04-06",
@@ -2854,7 +2881,16 @@
   },
   {
     "provider": "Azure Foundry (Anthropic)",
-    "model_name": "claude-sonnet-4-5",
+    "model_name": "claude-opus-4-6 (1)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-02-02",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-opus-4-5 (1)",
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-10-19",
@@ -2863,10 +2899,28 @@
   },
   {
     "provider": "Azure Foundry (Anthropic)",
-    "model_name": "claude-sonnet-4-6",
+    "model_name": "claude-haiku-4-5 (1)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2027-02-10",
+    "shutdown_date": "2026-10-19",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-haiku-4-5 (2)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2026-10-19",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-fable-5 (1)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-12-05",
     "replacement": "",
     "status": "active"
   }

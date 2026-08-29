@@ -4826,135 +4826,230 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-haiku-4-5
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DESCRIPTION:Model: claude-haiku-4-5\nStatus: active
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-sonnet-5 (2)
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+DESCRIPTION:Model: claude-sonnet-5 (2)\nStatus: active
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:claude-haiku-4-5 shutdown in 7 days
+DESCRIPTION:claude-sonnet-5 (2) shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:claude-haiku-4-5 shutdown in 30 days
+DESCRIPTION:claude-sonnet-5 (2) shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-mythos-previ
- ew (gated research preview)
-DTSTART;VALUE=DATE:20270402
-DTEND;VALUE=DATE:20270403
-DESCRIPTION:Model: claude-mythos-preview (gated research preview)\nStatus:
-  active
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-sonnet-5 (1)
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+DESCRIPTION:Model: claude-sonnet-5 (1)\nStatus: active
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:claude-mythos-preview (gated research preview) shutdown in 7 d
- ays
+DESCRIPTION:claude-sonnet-5 (1) shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:claude-mythos-preview (gated research preview) shutdown in 30 
- days
+DESCRIPTION:claude-sonnet-5 (1) shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-1
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-DESCRIPTION:Model: claude-opus-4-1\nReplacement: claude-opus-5\nStatus: re
- tired
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:claude-opus-4-1 shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:claude-opus-4-1 shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-5
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DESCRIPTION:Model: claude-opus-4-5\nStatus: active
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:claude-opus-4-5 shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:claude-opus-4-5 shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-6
-DTSTART;VALUE=DATE:20270202
-DTEND;VALUE=DATE:20270203
-DESCRIPTION:Model: claude-opus-4-6\nStatus: active
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:claude-opus-4-6 shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:claude-opus-4-6 shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-7
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
-DESCRIPTION:Model: claude-opus-4-7\nStatus: active
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:claude-opus-4-7 shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:claude-opus-4-7 shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-sonnet-4-5
-DTSTART;VALUE=DATE:20261019
-DTEND;VALUE=DATE:20261020
-DESCRIPTION:Model: claude-sonnet-4-5\nStatus: active
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:claude-sonnet-4-5 shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:claude-sonnet-4-5 shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-sonnet-4-6
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-sonnet-4-6 (
+ 1)
 DTSTART;VALUE=DATE:20270210
 DTEND;VALUE=DATE:20270211
-DESCRIPTION:Model: claude-sonnet-4-6\nStatus: active
+DESCRIPTION:Model: claude-sonnet-4-6 (1)\nStatus: active
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:claude-sonnet-4-6 shutdown in 7 days
+DESCRIPTION:claude-sonnet-4-6 (1) shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:claude-sonnet-4-6 shutdown in 30 days
+DESCRIPTION:claude-sonnet-4-6 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-sonnet-4-5 (
+ 1)
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DESCRIPTION:Model: claude-sonnet-4-5 (1)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-sonnet-4-5 (1) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-sonnet-4-5 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-5 (2)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DESCRIPTION:Model: claude-opus-5 (2)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-5 (2) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-5 (2) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-5 (1)
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270709
+DESCRIPTION:Model: claude-opus-5 (1)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-5 (1) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-5 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-8 (2)
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+DESCRIPTION:Model: claude-opus-4-8 (2)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-8 (2) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-8 (2) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-8 (1)
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+DESCRIPTION:Model: claude-opus-4-8 (1)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-8 (1) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-8 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-7 (1)
+DTSTART;VALUE=DATE:20270406
+DTEND;VALUE=DATE:20270407
+DESCRIPTION:Model: claude-opus-4-7 (1)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-7 (1) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-7 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-6 (1)
+DTSTART;VALUE=DATE:20270202
+DTEND;VALUE=DATE:20270203
+DESCRIPTION:Model: claude-opus-4-6 (1)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-6 (1) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-6 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-5 (1)
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DESCRIPTION:Model: claude-opus-4-5 (1)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-5 (1) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-5 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-haiku-4-5 (1
+ )
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DESCRIPTION:Model: claude-haiku-4-5 (1)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-haiku-4-5 (1) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-haiku-4-5 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-haiku-4-5 (2
+ )
+DTSTART;VALUE=DATE:20261019
+DTEND;VALUE=DATE:20261020
+DESCRIPTION:Model: claude-haiku-4-5 (2)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-haiku-4-5 (2) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-haiku-4-5 (2) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-fable-5 (1)
+DTSTART;VALUE=DATE:20271205
+DTEND;VALUE=DATE:20271206
+DESCRIPTION:Model: claude-fable-5 (1)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-fable-5 (1) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-fable-5 (1) shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT

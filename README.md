@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-08-28*
+*Last updated: 2026-08-29*
 
 ### Anthropic
 
@@ -43,14 +43,20 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| claude-opus-4-1 |  | retired | TBD | 🔴 2026-08-05 | claude-opus-5 |
-| claude-haiku-4-5 |  | active | TBD | 2026-10-19 |  |
-| claude-opus-4-5 |  | active | TBD | 2026-10-19 |  |
-| claude-sonnet-4-5 |  | active | TBD | 2026-10-19 |  |
-| claude-opus-4-6 |  | active | TBD | 2027-02-02 |  |
-| claude-sonnet-4-6 |  | active | TBD | 2027-02-10 |  |
-| claude-mythos-preview (gated research preview) |  | active | TBD | 2027-04-02 |  |
-| claude-opus-4-7 |  | active | TBD | 2027-04-06 |  |
+| claude-sonnet-4-5 (1) |  | active | TBD | 2026-10-19 |  |
+| claude-opus-4-5 (1) |  | active | TBD | 2026-10-19 |  |
+| claude-haiku-4-5 (1) |  | active | TBD | 2026-10-19 |  |
+| claude-haiku-4-5 (2) |  | active | TBD | 2026-10-19 |  |
+| claude-opus-4-6 (1) |  | active | TBD | 2027-02-02 |  |
+| claude-sonnet-4-6 (1) |  | active | TBD | 2027-02-10 |  |
+| claude-opus-4-7 (1) |  | active | TBD | 2027-04-06 |  |
+| claude-sonnet-5 (2) |  | active | TBD | 2027-06-30 |  |
+| claude-sonnet-5 (1) |  | active | TBD | 2027-06-30 |  |
+| claude-opus-5 (2) |  | active | TBD | 2027-07-08 |  |
+| claude-opus-5 (1) |  | active | TBD | 2027-07-08 |  |
+| claude-opus-4-8 (2) |  | active | TBD | 2027-09-01 |  |
+| claude-opus-4-8 (1) |  | active | TBD | 2027-09-01 |  |
+| claude-fable-5 (1) |  | active | TBD | 2027-12-05 |  |
 
 ### Azure Foundry (OpenAI)
 
@@ -182,10 +188,10 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | sora-2-2025-10-06 |  | deprecated | TBD | 🟡 2026-09-24 | --- |
 | sora-2-2025-12-08 |  | deprecated | TBD | 🟡 2026-09-24 | --- |
 | sora-2-pro-2025-10-06 |  | deprecated | TBD | 🟡 2026-09-24 | --- |
-| gpt-3.5-turbo-instruct |  | deprecated | TBD | 2026-09-28 | gpt-5.6-terra |
-| babbage-002 |  | deprecated | TBD | 2026-09-28 | gpt-5.6-terra |
-| davinci-002 |  | deprecated | TBD | 2026-09-28 | gpt-5.6-terra |
-| gpt-3.5-turbo-1106 |  | deprecated | TBD | 2026-09-28 | gpt-5.6-terra |
+| gpt-3.5-turbo-instruct |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
+| babbage-002 |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
+| davinci-002 |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
+| gpt-3.5-turbo-1106 |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
 | gpt-3.5-turbo-0125 | gpt-3.5-turbo, gpt-3.5-turbo-completions |  | deprecated | TBD | 2026-10-23 | gpt-5.6-terra |
 | gpt-4-0613 | gpt-4, gpt-4-0613-completions, gpt-4-completions |  | deprecated | TBD | 2026-10-23 | gpt-5.6-sol |
 | gpt-4-1106-preview |  | deprecated | TBD | 2026-10-23 | gpt-5.6-sol |

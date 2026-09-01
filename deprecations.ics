@@ -2457,6 +2457,22 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Anthropic] Model deprecation: claude-fable-5-1
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+DESCRIPTION:Model: claude-fable-5-1\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-fable-5-1 shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-fable-5-1 shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Anthropic] Model deprecation: claude-fable-5
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
@@ -5072,6 +5088,23 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-4-1
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+DESCRIPTION:Model: claude-opus-4-1\nReplacement: claude-opus-5\nStatus: re
+ tired
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-1 shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-4-1 shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-haiku-4-5 (1
  )
 DTSTART;VALUE=DATE:20261019
@@ -5118,6 +5151,26 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:claude-fable-5 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-mythos-previ
+ ew (gated research preview)
+DTSTART;VALUE=DATE:20270402
+DTEND;VALUE=DATE:20270403
+DESCRIPTION:Model: claude-mythos-preview (gated research preview)\nStatus:
+  active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-mythos-preview (gated research preview) shutdown in 7 d
+ ays
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-mythos-preview (gated research preview) shutdown in 30 
+ days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT

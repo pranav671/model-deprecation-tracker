@@ -1297,6 +1297,15 @@
   },
   {
     "provider": "Anthropic",
+    "model_name": "claude-fable-5-1",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-09-01",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Anthropic",
     "model_name": "claude-fable-5",
     "model_id": "",
     "deprecated_date": "",
@@ -2935,6 +2944,15 @@
   },
   {
     "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-opus-4-1",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2026-08-05",
+    "replacement": "claude-opus-5",
+    "status": "retired"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
     "model_name": "claude-haiku-4-5 (1)",
     "model_id": "",
     "deprecated_date": "",
@@ -2953,10 +2971,37 @@
   },
   {
     "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-fable-5-1 (1)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
     "model_name": "claude-fable-5 (1)",
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2027-12-05",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-mythos-5-1 (1)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (Anthropic)",
+    "model_name": "claude-mythos-preview (gated research preview)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-04-02",
     "replacement": "",
     "status": "active"
   }

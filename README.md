@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-08-31*
+*Last updated: 2026-09-01*
 
 ### Anthropic
 
@@ -38,17 +38,20 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | claude-fable-5 |  | active | TBD | 2027-06-09 |  |
 | claude-sonnet-5 |  | active | TBD | 2027-06-30 |  |
 | claude-opus-5 |  | active | TBD | 2027-07-24 |  |
+| claude-fable-5-1 |  | active | TBD | 2027-09-01 |  |
 
 ### Azure Foundry (Anthropic)
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
+| claude-opus-4-1 |  | retired | TBD | 🔴 2026-08-05 | claude-opus-5 |
 | claude-sonnet-4-5 (1) |  | active | TBD | 2026-10-19 |  |
 | claude-opus-4-5 (1) |  | active | TBD | 2026-10-19 |  |
 | claude-haiku-4-5 (1) |  | active | TBD | 2026-10-19 |  |
 | claude-haiku-4-5 (2) |  | active | TBD | 2026-10-19 |  |
 | claude-opus-4-6 (1) |  | active | TBD | 2027-02-02 |  |
 | claude-sonnet-4-6 (1) |  | active | TBD | 2027-02-10 |  |
+| claude-mythos-preview (gated research preview) |  | active | TBD | 2027-04-02 |  |
 | claude-opus-4-7 (1) |  | active | TBD | 2027-04-06 |  |
 | claude-sonnet-5 (2) |  | active | TBD | 2027-06-30 |  |
 | claude-sonnet-5 (1) |  | active | TBD | 2027-06-30 |  |
@@ -72,8 +75,8 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-realtime-2 (2026-05-06) |  | retired | TBD | 🔴 2026-08-31 |  |
 | gpt-realtime-mini (2025-10-06) |  | active | TBD | 🟡 2026-09-21 |  |
 | gpt-chat-latest (2026-06-24) |  | active | TBD | 🟡 2026-09-24 |  |
-| gpt-4o (2024-05-13) |  | deprecated | TBD | 2026-10-01 | gpt-5.1 |
-| o3-mini (2025-01-31) |  | deprecated | TBD | 2026-10-01 | o4-mini |
+| gpt-4o (2024-05-13) |  | deprecated | TBD | 🟡 2026-10-01 | gpt-5.1 |
+| o3-mini (2025-01-31) |  | deprecated | TBD | 🟡 2026-10-01 | o4-mini |
 | gpt-4o-mini-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | gpt-4o-mini-tts (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | gpt-4o-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |

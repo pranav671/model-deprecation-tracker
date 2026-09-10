@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-09-09*
+*Last updated: 2026-09-10*
 
 ### Anthropic
 
@@ -130,6 +130,8 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-realtime-1.5 (2026-02-23) |  | active | TBD | 2027-08-24 |  |
 | gpt-5.4 (2026-03-05) |  | active | TBD | 2027-09-02 |  |
 | gpt-5.4-pro (2026-03-05) |  | active | TBD | 2027-09-07 |  |
+| gpt-image-2.5-flare (2026-09-09) |  | active | TBD | 2027-09-09 |  |
+| gpt-image-2.5-sunburst (2026-09-09) |  | active | TBD | 2027-09-09 |  |
 | gpt-5.4-mini (2026-03-17) |  | active | TBD | 2027-09-21 |  |
 | gpt-5.4-nano (2026-03-17) |  | active | TBD | 2027-09-21 |  |
 | gpt-image-2 (2026-04-21) |  | active | TBD | 2027-10-21 |  |

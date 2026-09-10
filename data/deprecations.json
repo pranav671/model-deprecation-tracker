@@ -2638,6 +2638,24 @@
   },
   {
     "provider": "Azure Foundry (OpenAI)",
+    "model_name": "gpt-image-2.5-flare (2026-09-09)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-09-09",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (OpenAI)",
+    "model_name": "gpt-image-2.5-sunburst (2026-09-09)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-09-09",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (OpenAI)",
     "model_name": "gpt-realtime (2025-08-28)",
     "model_id": "",
     "deprecated_date": "",

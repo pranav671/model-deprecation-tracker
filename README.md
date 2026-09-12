@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-09-11*
+*Last updated: 2026-09-12*
 
 ### Anthropic
 
@@ -77,24 +77,24 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-realtime-mini (2025-10-06) |  | active | TBD | 🟡 2026-09-21 |  |
 | gpt-chat-latest (2026-06-24) |  | active | TBD | 🟡 2026-09-24 |  |
 | gpt-4o (2024-05-13) |  | deprecated | TBD | 🟡 2026-10-01 | gpt-5.1 |
-| o3-mini (2025-01-31) |  | deprecated | TBD | 🟡 2026-10-01 | o4-mini |
 | gpt-4o-mini-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | gpt-4o-mini-tts (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | gpt-4o-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |
 | sora-2 (2025-12-08) |  | active | TBD | 2026-10-15 |  |
-| o4-mini (2025-04-16) |  | deprecated | TBD | 2026-10-16 |  |
-| o1 (2024-12-17) |  | deprecated | TBD | 2026-10-21 | gpt-5.6-sol |
-| o1-pro (2025-03-19) |  | active | TBD | 2026-10-21 | gpt-5.6-sol |
-| o3 (2025-04-16) |  | active | TBD | 2026-10-21 | gpt-5.6-sol |
 | gpt-image-1 (2025-04-15) |  | active | TBD | 2026-10-23 |  |
 | codex-mini (2025-05-16) |  | deprecated | TBD | 2026-11-15 |  |
+| o1 (2024-12-17) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |
+| o1-pro (2025-03-19) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |
+| o3 (2025-04-16) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |
+| o3-deep-research (2025-06-26) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |
+| o3-mini (2025-01-31) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-terra |
+| o3-pro (2025-06-10) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |
+| o4-mini (2025-04-16) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-terra |
 | gpt-chat-latest (2026-08-06) |  | active | TBD | 2026-12-02 |  |
 | gpt-realtime-mini (2025-12-15) |  | active | TBD | 2026-12-15 |  |
 | tts (001) |  | active | TBD | 2026-12-15 |  |
 | tts-hd (001) |  | active | TBD | 2026-12-15 |  |
 | whisper (001) |  | active | TBD | 2026-12-15 |  |
-| o3-pro (2025-06-10) |  | active | TBD | 2026-12-17 |  |
-| o3-deep-research (2025-06-26) |  | active | TBD | 2026-12-26 |  |
 | gpt-5 (2025-08-07) |  | active | TBD | 2027-02-09 |  |
 | gpt-5-mini (2025-08-07) |  | active | TBD | 2027-02-09 |  |
 | gpt-5-nano (2025-08-07) |  | active | TBD | 2027-02-09 |  |
@@ -194,6 +194,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | babbage-002 |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
 | davinci-002 |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
 | gpt-3.5-turbo-1106 |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
+| gpt-5.4-cyber |  | deprecated | TBD | 🟡 2026-10-01 | gpt-5.6-cyber |
 | gpt-3.5-turbo-0125 | gpt-3.5-turbo, gpt-3.5-turbo-completions |  | deprecated | TBD | 2026-10-23 | gpt-5.6-terra |
 | gpt-4-0613 | gpt-4, gpt-4-0613-completions, gpt-4-completions |  | deprecated | TBD | 2026-10-23 | gpt-5.6-sol |
 | gpt-4-1106-preview |  | deprecated | TBD | 2026-10-23 | gpt-5.6-sol |

@@ -1,6 +1,15 @@
 [
   {
     "provider": "OpenAI",
+    "model_name": "gpt-5.4-cyber",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2026-10-01",
+    "replacement": "gpt-5.6-cyber",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
     "model_name": "whisper-1",
     "model_id": "",
     "deprecated_date": "",
@@ -2740,7 +2749,7 @@
     "model_name": "o1 (2024-12-17)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-10-21",
+    "shutdown_date": "2026-11-19",
     "replacement": "gpt-5.6-sol",
     "status": "deprecated"
   },
@@ -2749,35 +2758,35 @@
     "model_name": "o1-pro (2025-03-19)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-10-21",
+    "shutdown_date": "2026-11-19",
     "replacement": "gpt-5.6-sol",
-    "status": "active"
+    "status": "deprecated"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
     "model_name": "o3 (2025-04-16)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-10-21",
+    "shutdown_date": "2026-11-19",
     "replacement": "gpt-5.6-sol",
-    "status": "active"
+    "status": "deprecated"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
     "model_name": "o3-deep-research (2025-06-26)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-12-26",
-    "replacement": "",
-    "status": "active"
+    "shutdown_date": "2026-11-19",
+    "replacement": "gpt-5.6-sol",
+    "status": "deprecated"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
     "model_name": "o3-mini (2025-01-31)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-10-01",
-    "replacement": "o4-mini",
+    "shutdown_date": "2026-11-19",
+    "replacement": "gpt-5.6-terra",
     "status": "deprecated"
   },
   {
@@ -2785,17 +2794,17 @@
     "model_name": "o3-pro (2025-06-10)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-12-17",
-    "replacement": "",
-    "status": "active"
+    "shutdown_date": "2026-11-19",
+    "replacement": "gpt-5.6-sol",
+    "status": "deprecated"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
     "model_name": "o4-mini (2025-04-16)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-10-16",
-    "replacement": "",
+    "shutdown_date": "2026-11-19",
+    "replacement": "gpt-5.6-terra",
     "status": "deprecated"
   },
   {

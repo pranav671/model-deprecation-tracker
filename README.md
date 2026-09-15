@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-09-14*
+*Last updated: 2026-09-15*
 
 ### Anthropic
 
@@ -27,7 +27,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 |-------|----------|--------|------------|----------|-------------|
 | claude-opus-4-1-20250805 |  | retired | 2026-06-05 | 🔴 2026-08-05 | claude-opus-4-8 |
 | claude-sonnet-4-5-20250929 |  | active | TBD | 🟡 2026-09-29 |  |
-| claude-haiku-4-5-20251001 |  | active | TBD | 2026-10-15 |  |
+| claude-haiku-4-5-20251001 |  | active | TBD | 🟡 2026-10-15 |  |
 | claude-opus-4-5-20251101 |  | active | TBD | 2026-11-24 |  |
 | claude-opus-4-6 |  | active | TBD | 2027-02-05 |  |
 | claude-sonnet-4-6 |  | active | TBD | 2027-02-17 |  |
@@ -75,10 +75,10 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-realtime-mini (2025-10-06) |  | active | TBD | 🟡 2026-09-21 |  |
 | gpt-chat-latest (2026-06-24) |  | active | TBD | 🟡 2026-09-24 |  |
 | gpt-4o (2024-05-13) |  | deprecated | TBD | 🟡 2026-10-01 | gpt-5.1 |
-| gpt-4o-mini-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |
-| gpt-4o-mini-tts (2025-03-20) |  | active | TBD | 2026-10-15 |  |
-| gpt-4o-transcribe (2025-03-20) |  | active | TBD | 2026-10-15 |  |
-| sora-2 (2025-12-08) |  | active | TBD | 2026-10-15 |  |
+| gpt-4o-mini-transcribe (2025-03-20) |  | active | TBD | 🟡 2026-10-15 |  |
+| gpt-4o-mini-tts (2025-03-20) |  | active | TBD | 🟡 2026-10-15 |  |
+| gpt-4o-transcribe (2025-03-20) |  | active | TBD | 🟡 2026-10-15 |  |
+| sora-2 (2025-12-08) |  | active | TBD | 🟡 2026-10-15 |  |
 | gpt-image-1 (2025-04-15) |  | active | TBD | 2026-10-23 |  |
 | codex-mini (2025-05-16) |  | deprecated | TBD | 2026-11-15 |  |
 | o1 (2024-12-17) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |

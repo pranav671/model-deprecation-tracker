@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-09-15*
+*Last updated: 2026-09-16*
 
 ### Anthropic
 
@@ -75,6 +75,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-realtime-mini (2025-10-06) |  | active | TBD | 🟡 2026-09-21 |  |
 | gpt-chat-latest (2026-06-24) |  | active | TBD | 🟡 2026-09-24 |  |
 | gpt-4o (2024-05-13) |  | deprecated | TBD | 🟡 2026-10-01 | gpt-5.1 |
+| gpt-4.1-nano (2025-04-14) |  | deprecated | TBD | 🟡 2026-10-14 |  |
 | gpt-4o-mini-transcribe (2025-03-20) |  | active | TBD | 🟡 2026-10-15 |  |
 | gpt-4o-mini-tts (2025-03-20) |  | active | TBD | 🟡 2026-10-15 |  |
 | gpt-4o-transcribe (2025-03-20) |  | active | TBD | 🟡 2026-10-15 |  |
@@ -93,6 +94,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | tts (001) |  | active | TBD | 2026-12-15 |  |
 | tts-hd (001) |  | active | TBD | 2026-12-15 |  |
 | whisper (001) |  | active | TBD | 2026-12-15 |  |
+| gpt-image-1.5 (2025-12-16) |  | active | TBD | 2026-12-16 |  |
 | gpt-5 (2025-08-07) |  | active | TBD | 2027-02-09 |  |
 | gpt-5-mini (2025-08-07) |  | active | TBD | 2027-02-09 |  |
 | gpt-5-nano (2025-08-07) |  | active | TBD | 2027-02-09 |  |
@@ -105,7 +107,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-image-1-mini (2025-10-06) |  | active | TBD | 2027-04-07 |  |
 | gpt-4.1 (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
 | gpt-4.1-mini (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
-| gpt-4.1-nano (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
 | gpt-4o (2024-08-06) |  | deprecated | TBD | 2027-04-14 | gpt-5.1 |
 | gpt-4o (2024-11-20) |  | deprecated | TBD | 2027-04-14 | gpt-5.1 |
 | gpt-4o-mini (2024-07-18) |  | deprecated | TBD | 2027-04-14 |  |
@@ -119,7 +120,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-4o-mini-tts (2025-12-15) |  | active | TBD | 2027-06-15 |  |
 | gpt-audio-mini (2025-12-15) |  | active | TBD | 2027-06-15 |  |
 | gpt-realtime-mini (2025-12-15) |  | active | TBD | 2027-06-15 |  |
-| gpt-image-1.5 (2025-12-16) |  | active | TBD | 2027-06-16 |  |
 | gpt-realtime-2.1 (2026-07-07) |  | active | TBD | 2027-06-25 |  |
 | gpt-realtime-2.1-mini (2026-07-07) |  | active | TBD | 2027-06-25 |  |
 | gpt-5.2-codex (2026-01-14) |  | active | TBD | 2027-07-13 |  |

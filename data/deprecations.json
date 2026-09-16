@@ -2245,7 +2245,7 @@
     "model_name": "gpt-4.1-nano (2025-04-14)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2027-04-14",
+    "shutdown_date": "2026-10-14",
     "replacement": "",
     "status": "deprecated"
   },
@@ -2668,7 +2668,7 @@
     "model_name": "gpt-image-1.5 (2025-12-16)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2027-06-16",
+    "shutdown_date": "2026-12-16",
     "replacement": "",
     "status": "active"
   },

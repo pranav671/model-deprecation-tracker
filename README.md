@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-09-21*
+*Last updated: 2026-09-22*
 
 ### Anthropic
 
@@ -39,6 +39,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | claude-opus-5 |  | active | TBD | 2027-07-24 |  |
 | claude-fable-5-1 |  | active | TBD | 2027-09-01 |  |
 | claude-mythos-5-1 |  | active | TBD | 2027-09-01 |  |
+| claude-opus-5-5 |  | active | TBD | 2027-09-22 |  |
 
 ### Azure Foundry (Anthropic)
 

@@ -365,7 +365,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-09-24",
-    "replacement": "---",
+    "replacement": "—",
     "status": "deprecated"
   },
   {
@@ -374,7 +374,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-09-24",
-    "replacement": "---",
+    "replacement": "—",
     "status": "deprecated"
   },
   {
@@ -383,7 +383,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-09-24",
-    "replacement": "---",
+    "replacement": "—",
     "status": "deprecated"
   },
   {
@@ -392,7 +392,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-09-24",
-    "replacement": "---",
+    "replacement": "—",
     "status": "deprecated"
   },
   {
@@ -401,7 +401,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-09-24",
-    "replacement": "---",
+    "replacement": "—",
     "status": "deprecated"
   },
   {
@@ -410,7 +410,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "2026-09-24",
-    "replacement": "---",
+    "replacement": "—",
     "status": "deprecated"
   },
   {
@@ -1567,6 +1567,24 @@
   },
   {
     "provider": "Gemini",
+    "model_name": "gemini-3.8-flash-tts",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Gemini",
+    "model_name": "gemini-3.8-flash-lite-tts",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Gemini",
     "model_name": "gemini-3.8-live",
     "model_id": "",
     "deprecated_date": "",
@@ -1654,6 +1672,15 @@
     "shutdown_date": "2027-05-07",
     "replacement": "gemini-3.5-flash-lite",
     "status": "deprecated"
+  },
+  {
+    "provider": "Gemini",
+    "model_name": "gemini-3.1-flash-tts-preview",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "",
+    "replacement": "gemini-3.8-flash-tts or gemini-3.8-flash-lite-tts",
+    "status": "active"
   },
   {
     "provider": "Gemini",
@@ -2758,9 +2785,9 @@
     "model_name": "gpt-realtime-2 (2026-05-06)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-08-31",
-    "replacement": "",
-    "status": "retired"
+    "shutdown_date": "",
+    "replacement": "gpt-realtime-2.1",
+    "status": "active"
   },
   {
     "provider": "Azure Foundry (OpenAI)",

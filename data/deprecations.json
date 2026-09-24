@@ -2308,7 +2308,7 @@
     "model_name": "gpt-4.1-nano (2025-04-14)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2027-04-14",
+    "shutdown_date": "2026-10-14",
     "replacement": "",
     "status": "deprecated"
   },
@@ -2317,8 +2317,8 @@
     "model_name": "gpt-4o (2024-05-13)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-10-01",
-    "replacement": "gpt-5.1",
+    "shutdown_date": "2026-12-09",
+    "replacement": "gpt-5.6-sol",
     "status": "deprecated"
   },
   {
@@ -2697,7 +2697,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-09-24",
     "replacement": "",
-    "status": "active"
+    "status": "retired"
   },
   {
     "provider": "Azure Foundry (OpenAI)",

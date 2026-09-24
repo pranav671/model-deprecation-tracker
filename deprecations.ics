@@ -3726,8 +3726,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-4.1-nano (2025-04-
  14)
-DTSTART;VALUE=DATE:20270414
-DTEND;VALUE=DATE:20270415
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
 DESCRIPTION:Model: gpt-4.1-nano (2025-04-14)\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -3742,10 +3742,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-4o (2024-05-13)
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DESCRIPTION:Model: gpt-4o (2024-05-13)\nReplacement: gpt-5.1\nStatus: depr
- ecated
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+DESCRIPTION:Model: gpt-4o (2024-05-13)\nReplacement: gpt-5.6-sol\nStatus: 
+ deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4o (2024-05-13) shutdown in 7 days
@@ -4458,7 +4458,7 @@ SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-chat-latest (2026-
  06-24)
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-DESCRIPTION:Model: gpt-chat-latest (2026-06-24)\nStatus: active
+DESCRIPTION:Model: gpt-chat-latest (2026-06-24)\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-chat-latest (2026-06-24) shutdown in 7 days

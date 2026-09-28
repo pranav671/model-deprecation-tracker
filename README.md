@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-09-27*
+*Last updated: 2026-09-28*
 
 ### Anthropic
 
@@ -40,6 +40,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | claude-fable-5-1 |  | active | TBD | 2027-09-01 |  |
 | claude-mythos-5-1 |  | active | TBD | 2027-09-01 |  |
 | claude-opus-5-5 |  | active | TBD | 2027-09-22 |  |
+| claude-sonnet-5-5 |  | active | TBD | 2027-09-28 |  |
 
 ### Azure Foundry (Anthropic)
 
@@ -67,10 +68,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| gpt-5-chat (2025-08-07) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
-| gpt-5.1-chat (2025-11-13) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
-| gpt-5.2-chat (2026-02-10) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
-| gpt-5.3-chat (2026-03-03) |  | retired | TBD | 🔴 2026-06-29 | gpt-chat-latest |
 | sora-2 (2025-10-06) |  | retired | TBD | 🔴 2026-07-15 | sora-2 (2025-12-08) |
 | gpt-chat-latest (2026-05-05) |  | retired | TBD | 🔴 2026-08-05 |  |
 | gpt-chat-latest (2026-05-28) |  | retired | TBD | 🔴 2026-08-28 |  |
@@ -188,10 +185,10 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | sora-2-2025-10-06 |  | deprecated | TBD | 🔴 2026-09-24 | — |
 | sora-2-2025-12-08 |  | deprecated | TBD | 🔴 2026-09-24 | — |
 | sora-2-pro-2025-10-06 |  | deprecated | TBD | 🔴 2026-09-24 | — |
-| gpt-3.5-turbo-instruct |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
-| babbage-002 |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
-| davinci-002 |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
-| gpt-3.5-turbo-1106 |  | deprecated | TBD | 🟡 2026-09-28 | gpt-5.6-terra |
+| gpt-3.5-turbo-instruct |  | deprecated | TBD | 🔴 2026-09-28 | gpt-5.6-terra |
+| babbage-002 |  | deprecated | TBD | 🔴 2026-09-28 | gpt-5.6-terra |
+| davinci-002 |  | deprecated | TBD | 🔴 2026-09-28 | gpt-5.6-terra |
+| gpt-3.5-turbo-1106 |  | deprecated | TBD | 🔴 2026-09-28 | gpt-5.6-terra |
 | gpt-5.4-cyber |  | deprecated | TBD | 🟡 2026-10-01 | gpt-5.6-cyber |
 | gpt-3.5-turbo-0125 | gpt-3.5-turbo, gpt-3.5-turbo-completions |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-terra |
 | gpt-4-0613 | gpt-4, gpt-4-0613-completions, gpt-4-completions |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-sol |
@@ -199,7 +196,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-4-turbo | gpt-4-turbo-2024-04-09, gpt-4-turbo-completions |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-sol |
 | gpt-4.1-nano | gpt-4.1-nano-2025-04-14 |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-luna |
 | gpt-4o-2024-05-13 |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-sol |
-| gpt-image-1 |  | deprecated | TBD | 🟡 2026-10-23 | gpt-image-2 |
+| gpt-image-1 |  | deprecated | TBD | 🟡 2026-10-23 | gpt-image-2.5-sunburst or gpt-image-2.5-flare |
 | o1-2024-12-17 | o1 |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-sol |
 | o1-pro-2025-03-19 | o1-pro |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-sol (reasoning.mode: pro) |
 | o3-mini-2025-01-31 | o3-mini |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-sol |
@@ -210,9 +207,9 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | ft-gpt-4.1-nano-2025-04-14 |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-luna |
 | ft-babbage-002 |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-terra |
 | ft-davinci-002 |  | deprecated | TBD | 🟡 2026-10-23 | gpt-5.6-terra |
-| gpt-image-1-mini |  | deprecated | TBD | 2026-12-01 | gpt-image-2 |
-| gpt-image-1.5 |  | deprecated | TBD | 2026-12-01 | gpt-image-2 |
-| chatgpt-image-latest |  | deprecated | TBD | 2026-12-01 | gpt-image-2 |
+| gpt-image-1-mini |  | deprecated | TBD | 2026-12-01 | gpt-image-2.5-sunburst or gpt-image-2.5-flare |
+| gpt-image-1.5 |  | deprecated | TBD | 2026-12-01 | gpt-image-2.5-sunburst or gpt-image-2.5-flare |
+| chatgpt-image-latest |  | deprecated | TBD | 2026-12-01 | gpt-image-2.5-sunburst or gpt-image-2.5-flare |
 | gpt-5-2025-08-07 |  | deprecated | TBD | 2026-12-11 | gpt-5.6-sol |
 | gpt-5-mini-2025-08-07 |  | deprecated | TBD | 2026-12-11 | gpt-5.6-terra |
 | gpt-5-nano-2025-08-07 |  | deprecated | TBD | 2026-12-11 | gpt-5.6-luna |

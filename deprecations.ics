@@ -3040,6 +3040,24 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Gemini] Model deprecation: gemini-2.5-computer-use-preview-10-202
+ 5
+DTSTART;VALUE=DATE:20260728
+DTEND;VALUE=DATE:20260729
+DESCRIPTION:Model: gemini-2.5-computer-use-preview-10-2025\nReplacement: g
+ emini-3.8-flash\nStatus: retired
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gemini-2.5-computer-use-preview-10-2025 shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gemini-2.5-computer-use-preview-10-2025 shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Gemini] Model deprecation: gemini-2.5-pro-preview-03-25
 DTSTART;VALUE=DATE:20251202
 DTEND;VALUE=DATE:20251203
@@ -5097,9 +5115,10 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-sonnet-4-5 (
  1)
-DTSTART;VALUE=DATE:20261115
-DTEND;VALUE=DATE:20261116
-DESCRIPTION:Model: claude-sonnet-4-5 (1)\nStatus: active
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+DESCRIPTION:Model: claude-sonnet-4-5 (1)\nReplacement: claude-sonnet-5-5\n
+ Status: active
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:claude-sonnet-4-5 (1) shutdown in 7 days

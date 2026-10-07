@@ -64,15 +64,6 @@
   },
   {
     "provider": "OpenAI",
-    "model_name": "gpt-5.4-cyber",
-    "model_id": "",
-    "deprecated_date": "",
-    "shutdown_date": "2026-10-01",
-    "replacement": "The most capable cyber model available to you.",
-    "status": "deprecated"
-  },
-  {
-    "provider": "OpenAI",
     "model_name": "whisper-1",
     "model_id": "",
     "deprecated_date": "",
@@ -267,6 +258,15 @@
     "deprecated_date": "",
     "shutdown_date": "2026-12-01",
     "replacement": "gpt-image-2.5-sunburst or gpt-image-2.5-flare",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
+    "model_name": "gpt-5.4-cyber",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2026-10-01",
+    "replacement": "The most capable cyber model available to you.",
     "status": "deprecated"
   },
   {
@@ -1540,6 +1540,15 @@
   },
   {
     "provider": "Anthropic",
+    "model_name": "claude-haiku-5-5",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-10-07",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Anthropic",
     "model_name": "claude-haiku-4-5-20251001",
     "model_id": "",
     "deprecated_date": "",
@@ -2110,9 +2119,9 @@
     "model_name": "gemini-3.1-flash-image",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-10-29",
+    "shutdown_date": "",
     "replacement": "gemini-nano-banana-2.1",
-    "status": "deprecated"
+    "status": "active"
   },
   {
     "provider": "Gemini",

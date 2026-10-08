@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-10-07*
+*Last updated: 2026-10-08*
 
 ### Anthropic
 
@@ -74,7 +74,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-chat-latest (2026-05-28) |  | retired | TBD | 🔴 2026-08-28 |  |
 | gpt-realtime-mini (2025-10-06) |  | retired | TBD | 🔴 2026-09-21 |  |
 | gpt-chat-latest (2026-06-24) |  | retired | TBD | 🔴 2026-09-24 |  |
-| gpt-4.1-nano (2025-04-14) |  | deprecated | TBD | 🟡 2026-10-14 |  |
 | gpt-4o-mini-transcribe (2025-03-20) |  | active | TBD | 🟡 2026-10-15 |  |
 | gpt-4o-mini-tts (2025-03-20) |  | active | TBD | 🟡 2026-10-15 |  |
 | gpt-4o-transcribe (2025-03-20) |  | active | TBD | 🟡 2026-10-15 |  |
@@ -107,6 +106,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-image-1-mini (2025-10-06) |  | active | TBD | 2027-04-07 |  |
 | gpt-4.1 (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
 | gpt-4.1-mini (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
+| gpt-4.1-nano (2025-04-14) |  | deprecated | TBD | 2027-04-14 |  |
 | gpt-4o (2024-08-06) |  | deprecated | TBD | 2027-04-14 | gpt-5.1 |
 | gpt-4o (2024-11-20) |  | deprecated | TBD | 2027-04-14 | gpt-5.1 |
 | gpt-4o-mini (2024-07-18) |  | deprecated | TBD | 2027-04-14 |  |

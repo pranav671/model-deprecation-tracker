@@ -2854,8 +2854,8 @@ BEGIN:VEVENT
 SUMMARY:[Anthropic] Model deprecation: claude-sonnet-4-20250514
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
-DESCRIPTION:Model: claude-sonnet-4-20250514\nReplacement: claude-sonnet-4-
- 6\nStatus: retired
+DESCRIPTION:Model: claude-sonnet-4-20250514\nReplacement: claude-sonnet-5-
+ 5\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:claude-sonnet-4-20250514 shutdown in 7 days
@@ -2872,7 +2872,7 @@ SUMMARY:[Anthropic] Model deprecation: claude-3-7-sonnet-20250219
 DTSTART;VALUE=DATE:20260219
 DTEND;VALUE=DATE:20260220
 DESCRIPTION:Model: claude-3-7-sonnet-20250219\nReplacement: claude-sonnet-
- 4-6\nStatus: retired
+ 5-5\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:claude-3-7-sonnet-20250219 shutdown in 7 days

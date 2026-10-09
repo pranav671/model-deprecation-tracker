@@ -1526,7 +1526,7 @@
     "model_id": "",
     "deprecated_date": "2026-04-14",
     "shutdown_date": "2026-06-15",
-    "replacement": "claude-sonnet-4-6",
+    "replacement": "claude-sonnet-5-5",
     "status": "retired"
   },
   {
@@ -1535,7 +1535,7 @@
     "model_id": "",
     "deprecated_date": "2025-10-28",
     "shutdown_date": "2026-02-19",
-    "replacement": "claude-sonnet-4-6",
+    "replacement": "claude-sonnet-5-5",
     "status": "retired"
   },
   {
@@ -1697,7 +1697,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "",
-    "replacement": "",
+    "replacement": "gemini-3.8-flash (requests to gemini-3.7-flash are automatically routed to gemini-3.8-flash)",
     "status": "active"
   },
   {
@@ -1724,7 +1724,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "",
-    "replacement": "",
+    "replacement": "gemini-3.6-flash (requests to gemini-3.5-flash are automatically routed to gemini-3.6-flash)",
     "status": "active"
   },
   {

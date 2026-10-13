@@ -1697,7 +1697,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "",
-    "replacement": "gemini-3.8-flash (requests to gemini-3.7-flash are automatically routed to gemini-3.8-flash)",
+    "replacement": "gemini-3.8-flash (not available to select in Google AI Studio; the endpoint is not shutting down and automatically routes API requests to gemini-3.8-flash)",
     "status": "active"
   },
   {
@@ -1724,7 +1724,7 @@
     "model_id": "",
     "deprecated_date": "",
     "shutdown_date": "",
-    "replacement": "gemini-3.6-flash (requests to gemini-3.5-flash are automatically routed to gemini-3.6-flash)",
+    "replacement": "gemini-3.6-flash (not available to select in Google AI Studio; the endpoint is not shutting down and automatically routes API requests to gemini-3.6-flash)",
     "status": "active"
   },
   {

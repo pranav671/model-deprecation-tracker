@@ -227,6 +227,10 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | tts-1-hd |  | deprecated | TBD | 2027-01-06 | gpt-realtime-2.1-mini |
 | gpt-4o-mini-tts-2025-03-20 |  | deprecated | TBD | 2027-01-06 | gpt-realtime-2.1-mini |
 | gpt-4o-mini-tts-2025-12-15 |  | deprecated | TBD | 2027-01-06 | gpt-realtime-2.1-mini |
+| GPT-4o (gpt-4o-2024-08-06, gpt-4o-2024-11-20) |  | deprecated | TBD | 2027-01-14 | gpt-6-luna |
+| GPT-4o mini (gpt-4o-mini-2024-07-18) |  | deprecated | TBD | 2027-01-14 | gpt-6-luna |
+| GPT-4.1 (gpt-4.1-2025-04-14) |  | deprecated | TBD | 2027-01-14 | gpt-6-luna |
+| GPT-4.1 mini (gpt-4.1-mini-2025-04-14) |  | deprecated | TBD | 2027-01-14 | gpt-6-luna |
 | gpt-realtime |  | deprecated | TBD | 2027-01-20 | gpt-realtime-2.1 |
 | gpt-audio |  | deprecated | TBD | 2027-01-20 | gpt-audio-1.5 |
 | gpt-4o-audio |  | deprecated | TBD | 2027-01-20 | gpt-audio-1.5 |

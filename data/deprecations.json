@@ -1,6 +1,42 @@
 [
   {
     "provider": "OpenAI",
+    "model_name": "GPT-4o (gpt-4o-2024-08-06, gpt-4o-2024-11-20)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-01-14",
+    "replacement": "gpt-6-luna",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
+    "model_name": "GPT-4o mini (gpt-4o-mini-2024-07-18)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-01-14",
+    "replacement": "gpt-6-luna",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
+    "model_name": "GPT-4.1 (gpt-4.1-2025-04-14)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-01-14",
+    "replacement": "gpt-6-luna",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
+    "model_name": "GPT-4.1 mini (gpt-4.1-mini-2025-04-14)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-01-14",
+    "replacement": "gpt-6-luna",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
     "model_name": "gpt-5.3-codex",
     "model_id": "",
     "deprecated_date": "",
@@ -262,33 +298,6 @@
   },
   {
     "provider": "OpenAI",
-    "model_name": "gpt-5.4-cyber",
-    "model_id": "",
-    "deprecated_date": "",
-    "shutdown_date": "2026-10-01",
-    "replacement": "The most capable cyber model available to you.",
-    "status": "deprecated"
-  },
-  {
-    "provider": "OpenAI",
-    "model_name": "gpt-5.2-chat-latest",
-    "model_id": "",
-    "deprecated_date": "",
-    "shutdown_date": "2026-08-10",
-    "replacement": "gpt-5.6-sol",
-    "status": "deprecated"
-  },
-  {
-    "provider": "OpenAI",
-    "model_name": "gpt-5.3-chat-latest",
-    "model_id": "",
-    "deprecated_date": "",
-    "shutdown_date": "2026-08-10",
-    "replacement": "gpt-5.6-sol",
-    "status": "deprecated"
-  },
-  {
-    "provider": "OpenAI",
     "model_name": "gpt-3.5-turbo-0125 | gpt-3.5-turbo, gpt-3.5-turbo-completions",
     "model_id": "",
     "deprecated_date": "",
@@ -438,6 +447,33 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-23",
     "replacement": "gpt-5.6-terra",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
+    "model_name": "gpt-5.4-cyber",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2026-10-01",
+    "replacement": "The most capable cyber model available to you.",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
+    "model_name": "gpt-5.2-chat-latest",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2026-08-10",
+    "replacement": "gpt-5.6-sol",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
+    "model_name": "gpt-5.3-chat-latest",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2026-08-10",
+    "replacement": "gpt-5.6-sol",
     "status": "deprecated"
   },
   {

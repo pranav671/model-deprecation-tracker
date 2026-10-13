@@ -3,6 +3,77 @@ VERSION:2.0
 PRODID:-//ModelDeprecationTracker//EN
 X-WR-CALNAME:Model Deprecations
 BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: GPT-4o (gpt-4o-2024-08-06\, gpt-4o-202
+ 4-11-20)
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+DESCRIPTION:Model: GPT-4o (gpt-4o-2024-08-06\, gpt-4o-2024-11-20)\nReplace
+ ment: gpt-6-luna\nStatus: deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GPT-4o (gpt-4o-2024-08-06\, gpt-4o-2024-11-20) shutdown in 7 d
+ ays
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GPT-4o (gpt-4o-2024-08-06\, gpt-4o-2024-11-20) shutdown in 30 
+ days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: GPT-4o mini (gpt-4o-mini-2024-07-18)
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+DESCRIPTION:Model: GPT-4o mini (gpt-4o-mini-2024-07-18)\nReplacement: gpt-
+ 6-luna\nStatus: deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GPT-4o mini (gpt-4o-mini-2024-07-18) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GPT-4o mini (gpt-4o-mini-2024-07-18) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: GPT-4.1 (gpt-4.1-2025-04-14)
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+DESCRIPTION:Model: GPT-4.1 (gpt-4.1-2025-04-14)\nReplacement: gpt-6-luna\n
+ Status: deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GPT-4.1 (gpt-4.1-2025-04-14) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GPT-4.1 (gpt-4.1-2025-04-14) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: GPT-4.1 mini (gpt-4.1-mini-2025-04-14)
+DTSTART;VALUE=DATE:20270114
+DTEND;VALUE=DATE:20270115
+DESCRIPTION:Model: GPT-4.1 mini (gpt-4.1-mini-2025-04-14)\nReplacement: gp
+ t-6-luna\nStatus: deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GPT-4.1 mini (gpt-4.1-mini-2025-04-14) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:GPT-4.1 mini (gpt-4.1-mini-2025-04-14) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-5.3-codex
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
@@ -495,57 +566,6 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5.4-cyber
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DESCRIPTION:Model: gpt-5.4-cyber\nReplacement: The most capable cyber mode
- l available to you.\nStatus: deprecated
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.4-cyber shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.4-cyber shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5.2-chat-latest
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-DESCRIPTION:Model: gpt-5.2-chat-latest\nReplacement: gpt-5.6-sol\nStatus: 
- deprecated
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.2-chat-latest shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.2-chat-latest shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5.3-chat-latest
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-DESCRIPTION:Model: gpt-5.3-chat-latest\nReplacement: gpt-5.6-sol\nStatus: 
- deprecated
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.3-chat-latest shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.3-chat-latest shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-3.5-turbo-0125 | gpt-3.5-turbo\, g
  pt-3.5-turbo-completions
 DTSTART;VALUE=DATE:20261023
@@ -839,6 +859,57 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ft-davinci-002 shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: gpt-5.4-cyber
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+DESCRIPTION:Model: gpt-5.4-cyber\nReplacement: The most capable cyber mode
+ l available to you.\nStatus: deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.4-cyber shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.4-cyber shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: gpt-5.2-chat-latest
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DESCRIPTION:Model: gpt-5.2-chat-latest\nReplacement: gpt-5.6-sol\nStatus: 
+ deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.2-chat-latest shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.2-chat-latest shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: gpt-5.3-chat-latest
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DESCRIPTION:Model: gpt-5.3-chat-latest\nReplacement: gpt-5.6-sol\nStatus: 
+ deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.3-chat-latest shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.3-chat-latest shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT

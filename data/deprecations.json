@@ -136,6 +136,15 @@
   },
   {
     "provider": "OpenAI",
+    "model_name": "/v1/audio/translations",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-02-26",
+    "replacement": "v1/realtime/translations",
+    "status": "deprecated"
+  },
+  {
+    "provider": "OpenAI",
     "model_name": "gpt-realtime",
     "model_id": "",
     "deprecated_date": "",
@@ -2490,7 +2499,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-15",
     "replacement": "",
-    "status": "active"
+    "status": "retired"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
@@ -2508,7 +2517,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-15",
     "replacement": "",
-    "status": "active"
+    "status": "retired"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
@@ -2526,7 +2535,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-15",
     "replacement": "",
-    "status": "active"
+    "status": "retired"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
@@ -2812,34 +2821,43 @@
     "model_name": "gpt-chat-latest (2026-05-05)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-08-05",
+    "shutdown_date": "2026-11-17",
     "replacement": "",
-    "status": "retired"
+    "status": "active"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
     "model_name": "gpt-chat-latest (2026-05-28)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-08-28",
+    "shutdown_date": "2026-12-08",
     "replacement": "",
-    "status": "retired"
+    "status": "active"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
     "model_name": "gpt-chat-latest (2026-06-24)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-09-24",
+    "shutdown_date": "2026-11-17",
     "replacement": "",
-    "status": "retired"
+    "status": "active"
   },
   {
     "provider": "Azure Foundry (OpenAI)",
     "model_name": "gpt-chat-latest (2026-08-06)",
     "model_id": "",
     "deprecated_date": "",
-    "shutdown_date": "2026-12-02",
+    "shutdown_date": "2027-01-12",
+    "replacement": "",
+    "status": "active"
+  },
+  {
+    "provider": "Azure Foundry (OpenAI)",
+    "model_name": "gpt-chat-latest (2026-10-07)",
+    "model_id": "",
+    "deprecated_date": "",
+    "shutdown_date": "2027-05-18",
     "replacement": "",
     "status": "active"
   },
@@ -3057,7 +3075,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-15",
     "replacement": "",
-    "status": "active"
+    "status": "retired"
   },
   {
     "provider": "Azure Foundry (OpenAI)",

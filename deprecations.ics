@@ -260,6 +260,23 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: /v1/audio/translations
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+DESCRIPTION:Model: /v1/audio/translations\nReplacement: v1/realtime/transl
+ ations\nStatus: deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:/v1/audio/translations shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:/v1/audio/translations shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-realtime
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
@@ -4192,7 +4209,7 @@ SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-4o-mini-transcribe
   (2025-03-20)
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DESCRIPTION:Model: gpt-4o-mini-transcribe (2025-03-20)\nStatus: active
+DESCRIPTION:Model: gpt-4o-mini-transcribe (2025-03-20)\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4o-mini-transcribe (2025-03-20) shutdown in 7 days
@@ -4226,7 +4243,7 @@ SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-4o-mini-tts (2025-
  03-20)
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DESCRIPTION:Model: gpt-4o-mini-tts (2025-03-20)\nStatus: active
+DESCRIPTION:Model: gpt-4o-mini-tts (2025-03-20)\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4o-mini-tts (2025-03-20) shutdown in 7 days
@@ -4260,7 +4277,7 @@ SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-4o-transcribe (202
  5-03-20)
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DESCRIPTION:Model: gpt-4o-transcribe (2025-03-20)\nStatus: active
+DESCRIPTION:Model: gpt-4o-transcribe (2025-03-20)\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-4o-transcribe (2025-03-20) shutdown in 7 days
@@ -4801,9 +4818,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-chat-latest (2026-
  05-05)
-DTSTART;VALUE=DATE:20260805
-DTEND;VALUE=DATE:20260806
-DESCRIPTION:Model: gpt-chat-latest (2026-05-05)\nStatus: retired
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DESCRIPTION:Model: gpt-chat-latest (2026-05-05)\nStatus: active
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-chat-latest (2026-05-05) shutdown in 7 days
@@ -4818,9 +4835,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-chat-latest (2026-
  05-28)
-DTSTART;VALUE=DATE:20260828
-DTEND;VALUE=DATE:20260829
-DESCRIPTION:Model: gpt-chat-latest (2026-05-28)\nStatus: retired
+DTSTART;VALUE=DATE:20261208
+DTEND;VALUE=DATE:20261209
+DESCRIPTION:Model: gpt-chat-latest (2026-05-28)\nStatus: active
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-chat-latest (2026-05-28) shutdown in 7 days
@@ -4835,9 +4852,9 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-chat-latest (2026-
  06-24)
-DTSTART;VALUE=DATE:20260924
-DTEND;VALUE=DATE:20260925
-DESCRIPTION:Model: gpt-chat-latest (2026-06-24)\nStatus: retired
+DTSTART;VALUE=DATE:20261117
+DTEND;VALUE=DATE:20261118
+DESCRIPTION:Model: gpt-chat-latest (2026-06-24)\nStatus: active
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-chat-latest (2026-06-24) shutdown in 7 days
@@ -4852,8 +4869,8 @@ END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-chat-latest (2026-
  08-06)
-DTSTART;VALUE=DATE:20261202
-DTEND;VALUE=DATE:20261203
+DTSTART;VALUE=DATE:20270112
+DTEND;VALUE=DATE:20270113
 DESCRIPTION:Model: gpt-chat-latest (2026-08-06)\nStatus: active
 BEGIN:VALARM
 ACTION:DISPLAY
@@ -4863,6 +4880,23 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-chat-latest (2026-08-06) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-chat-latest (2026-
+ 10-07)
+DTSTART;VALUE=DATE:20270518
+DTEND;VALUE=DATE:20270519
+DESCRIPTION:Model: gpt-chat-latest (2026-10-07)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-chat-latest (2026-10-07) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-chat-latest (2026-10-07) shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -5245,7 +5279,7 @@ BEGIN:VEVENT
 SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: sora-2 (2025-12-08)
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
-DESCRIPTION:Model: sora-2 (2025-12-08)\nStatus: active
+DESCRIPTION:Model: sora-2 (2025-12-08)\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:sora-2 (2025-12-08) shutdown in 7 days

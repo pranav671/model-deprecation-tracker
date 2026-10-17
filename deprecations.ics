@@ -1428,23 +1428,6 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-4-1106-preview
-DTSTART;VALUE=DATE:20260326
-DTEND;VALUE=DATE:20260327
-DESCRIPTION:Model: gpt-4-1106-preview\nReplacement: gpt-5 or gpt-4.1*\nSta
- tus: deprecated
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-4-1106-preview shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-4-1106-preview shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: gpt-4-0125-preview (including gpt-4-tu
  rbo-preview and gpt-4-turbo-preview-completions\, which point to this snap
  shot)
@@ -5471,6 +5454,23 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:claude-sonnet-4-5 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-opus-5-5-fas
+ t (2)
+DTSTART;VALUE=DATE:20270115
+DTEND;VALUE=DATE:20270116
+DESCRIPTION:Model: claude-opus-5-5-fast (2)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-5-5-fast (2) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-opus-5-5-fast (2) shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT

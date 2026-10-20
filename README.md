@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-10-19*
+*Last updated: 2026-10-20*
 
 ### Anthropic
 
@@ -79,13 +79,13 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | codex-mini (2025-05-16) |  | deprecated | TBD | 🟡 2026-11-15 |  |
 | gpt-chat-latest (2026-05-05) |  | active | TBD | 🟡 2026-11-17 |  |
 | gpt-chat-latest (2026-06-24) |  | active | TBD | 🟡 2026-11-17 |  |
-| o1 (2024-12-17) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |
-| o1-pro (2025-03-19) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |
-| o3 (2025-04-16) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |
-| o3-deep-research (2025-06-26) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |
-| o3-mini (2025-01-31) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-terra |
-| o3-pro (2025-06-10) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-sol |
-| o4-mini (2025-04-16) |  | deprecated | TBD | 2026-11-19 | gpt-5.6-terra |
+| o1 (2024-12-17) |  | deprecated | TBD | 🟡 2026-11-19 | gpt-5.6-sol |
+| o1-pro (2025-03-19) |  | deprecated | TBD | 🟡 2026-11-19 | gpt-5.6-sol |
+| o3 (2025-04-16) |  | deprecated | TBD | 🟡 2026-11-19 | gpt-5.6-sol |
+| o3-deep-research (2025-06-26) |  | deprecated | TBD | 🟡 2026-11-19 | gpt-5.6-sol |
+| o3-mini (2025-01-31) |  | deprecated | TBD | 🟡 2026-11-19 | gpt-5.6-terra |
+| o3-pro (2025-06-10) |  | deprecated | TBD | 🟡 2026-11-19 | gpt-5.6-sol |
+| o4-mini (2025-04-16) |  | deprecated | TBD | 🟡 2026-11-19 | gpt-5.6-terra |
 | gpt-chat-latest (2026-05-28) |  | active | TBD | 2026-12-08 |  |
 | gpt-4o (2024-05-13) |  | deprecated | TBD | 2026-12-09 | gpt-5.6-sol |
 | gpt-realtime-mini (2025-12-15) |  | active | TBD | 2026-12-15 |  |

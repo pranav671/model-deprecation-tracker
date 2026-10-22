@@ -2301,7 +2301,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-22",
     "replacement": "gemini-omni-1.1-flash",
-    "status": "deprecated"
+    "status": "retired"
   },
   {
     "provider": "Gemini",
@@ -2310,7 +2310,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-22",
     "replacement": "gemini-omni-1.1-flash",
-    "status": "deprecated"
+    "status": "retired"
   },
   {
     "provider": "Gemini",
@@ -2319,7 +2319,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-22",
     "replacement": "gemini-omni-1.1-flash",
-    "status": "deprecated"
+    "status": "retired"
   },
   {
     "provider": "Gemini",
@@ -2355,7 +2355,7 @@
     "deprecated_date": "",
     "shutdown_date": "2026-10-22",
     "replacement": "gemini-omni-1.1-flash",
-    "status": "deprecated"
+    "status": "retired"
   },
   {
     "provider": "Gemini",

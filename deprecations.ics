@@ -4886,7 +4886,7 @@ SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-image-1 (2025-04-1
  5)
 DTSTART;VALUE=DATE:20261023
 DTEND;VALUE=DATE:20261024
-DESCRIPTION:Model: gpt-image-1 (2025-04-15)\nStatus: active
+DESCRIPTION:Model: gpt-image-1 (2025-04-15)\nStatus: retired
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-image-1 (2025-04-15) shutdown in 7 days

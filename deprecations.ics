@@ -91,35 +91,36 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5.4-nano
+SUMMARY:[OpenAI] Model deprecation: gpt-5.4-nano | gpt-5.4-nano-2026-03-17
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-DESCRIPTION:Model: gpt-5.4-nano\nReplacement: gpt-6-luna\nStatus: deprecat
- ed
+DESCRIPTION:Model: gpt-5.4-nano | gpt-5.4-nano-2026-03-17\nReplacement: gp
+ t-6-luna\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5.4-nano shutdown in 7 days
+DESCRIPTION:gpt-5.4-nano | gpt-5.4-nano-2026-03-17 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5.4-nano shutdown in 30 days
+DESCRIPTION:gpt-5.4-nano | gpt-5.4-nano-2026-03-17 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5.1
+SUMMARY:[OpenAI] Model deprecation: gpt-5.1 | gpt-5.1-2025-11-13
 DTSTART;VALUE=DATE:20270401
 DTEND;VALUE=DATE:20270402
-DESCRIPTION:Model: gpt-5.1\nReplacement: gpt-6-sol\nStatus: deprecated
+DESCRIPTION:Model: gpt-5.1 | gpt-5.1-2025-11-13\nReplacement: gpt-6-sol\nS
+ tatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5.1 shutdown in 7 days
+DESCRIPTION:gpt-5.1 | gpt-5.1-2025-11-13 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5.1 shutdown in 30 days
+DESCRIPTION:gpt-5.1 | gpt-5.1-2025-11-13 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -158,36 +159,42 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-tts-2025-03-20
+SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-tts | gpt-4o-mini-tts-2025
+ -03-20
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
-DESCRIPTION:Model: gpt-4o-mini-tts-2025-03-20\nReplacement: gpt-realtime-2
- .1-mini\nStatus: deprecated
+DESCRIPTION:Model: gpt-4o-mini-tts | gpt-4o-mini-tts-2025-03-20\nReplaceme
+ nt: gpt-realtime-2.1-mini\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-tts-2025-03-20 shutdown in 7 days
+DESCRIPTION:gpt-4o-mini-tts | gpt-4o-mini-tts-2025-03-20 shutdown in 7 day
+ s
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-tts-2025-03-20 shutdown in 30 days
+DESCRIPTION:gpt-4o-mini-tts | gpt-4o-mini-tts-2025-03-20 shutdown in 30 da
+ ys
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-tts-2025-12-15
+SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-tts | gpt-4o-mini-tts-2025
+ -12-15
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
-DESCRIPTION:Model: gpt-4o-mini-tts-2025-12-15\nReplacement: gpt-realtime-2
- .1-mini\nStatus: deprecated
+DESCRIPTION:Model: gpt-4o-mini-tts | gpt-4o-mini-tts-2025-12-15\nReplaceme
+ nt: gpt-realtime-2.1-mini\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-tts-2025-12-15 shutdown in 7 days
+DESCRIPTION:gpt-4o-mini-tts | gpt-4o-mini-tts-2025-12-15 shutdown in 7 day
+ s
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-tts-2025-12-15 shutdown in 30 days
+DESCRIPTION:gpt-4o-mini-tts | gpt-4o-mini-tts-2025-12-15 shutdown in 30 da
+ ys
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -226,19 +233,23 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-transcribe
+SUMMARY:[OpenAI] Model deprecation: gpt-4o-mini-transcribe | gpt-4o-mini-t
+ ranscribe-2025-12-15
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
-DESCRIPTION:Model: gpt-4o-mini-transcribe\nReplacement: gpt-live-transcrib
- e or gpt-transcribe\nStatus: deprecated
+DESCRIPTION:Model: gpt-4o-mini-transcribe | gpt-4o-mini-transcribe-2025-12
+ -15\nReplacement: gpt-live-transcribe or gpt-transcribe\nStatus: deprecate
+ d
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-transcribe shutdown in 7 days
+DESCRIPTION:gpt-4o-mini-transcribe | gpt-4o-mini-transcribe-2025-12-15 shu
+ tdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-4o-mini-transcribe shutdown in 30 days
+DESCRIPTION:gpt-4o-mini-transcribe | gpt-4o-mini-transcribe-2025-12-15 shu
+ tdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -277,36 +288,36 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-realtime
+SUMMARY:[OpenAI] Model deprecation: gpt-realtime | gpt-realtime-2025-08-28
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-DESCRIPTION:Model: gpt-realtime\nReplacement: gpt-realtime-2.1\nStatus: de
- precated
+DESCRIPTION:Model: gpt-realtime | gpt-realtime-2025-08-28\nReplacement: gp
+ t-realtime-2.1\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-realtime shutdown in 7 days
+DESCRIPTION:gpt-realtime | gpt-realtime-2025-08-28 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-realtime shutdown in 30 days
+DESCRIPTION:gpt-realtime | gpt-realtime-2025-08-28 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-audio
+SUMMARY:[OpenAI] Model deprecation: gpt-audio | gpt-audio-2025-08-28
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-DESCRIPTION:Model: gpt-audio\nReplacement: gpt-audio-1.5\nStatus: deprecat
- ed
+DESCRIPTION:Model: gpt-audio | gpt-audio-2025-08-28\nReplacement: gpt-audi
+ o-1.5\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-audio shutdown in 7 days
+DESCRIPTION:gpt-audio | gpt-audio-2025-08-28 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-audio shutdown in 30 days
+DESCRIPTION:gpt-audio | gpt-audio-2025-08-28 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -345,36 +356,40 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-realtime-mini
+SUMMARY:[OpenAI] Model deprecation: gpt-realtime-mini | gpt-realtime-mini-
+ 2025-12-15
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-DESCRIPTION:Model: gpt-realtime-mini\nReplacement: gpt-realtime-2.1-mini\n
- Status: deprecated
+DESCRIPTION:Model: gpt-realtime-mini | gpt-realtime-mini-2025-12-15\nRepla
+ cement: gpt-realtime-2.1-mini\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-realtime-mini shutdown in 7 days
+DESCRIPTION:gpt-realtime-mini | gpt-realtime-mini-2025-12-15 shutdown in 7
+  days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-realtime-mini shutdown in 30 days
+DESCRIPTION:gpt-realtime-mini | gpt-realtime-mini-2025-12-15 shutdown in 3
+ 0 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-audio-mini
+SUMMARY:[OpenAI] Model deprecation: gpt-audio-mini | gpt-audio-mini-2025-1
+ 2-15
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
-DESCRIPTION:Model: gpt-audio-mini\nReplacement: gpt-audio-1.5\nStatus: dep
- recated
+DESCRIPTION:Model: gpt-audio-mini | gpt-audio-mini-2025-12-15\nReplacement
+ : gpt-audio-1.5\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-audio-mini shutdown in 7 days
+DESCRIPTION:gpt-audio-mini | gpt-audio-mini-2025-12-15 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-audio-mini shutdown in 30 days
+DESCRIPTION:gpt-audio-mini | gpt-audio-mini-2025-12-15 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -430,104 +445,104 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5-2025-08-07
+SUMMARY:[OpenAI] Model deprecation: gpt-5 | gpt-5-2025-08-07
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DESCRIPTION:Model: gpt-5-2025-08-07\nReplacement: gpt-5.6-sol\nStatus: dep
- recated
+DESCRIPTION:Model: gpt-5 | gpt-5-2025-08-07\nReplacement: gpt-5.6-sol\nSta
+ tus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5-2025-08-07 shutdown in 7 days
+DESCRIPTION:gpt-5 | gpt-5-2025-08-07 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5-2025-08-07 shutdown in 30 days
+DESCRIPTION:gpt-5 | gpt-5-2025-08-07 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5-mini-2025-08-07
+SUMMARY:[OpenAI] Model deprecation: gpt-5-mini | gpt-5-mini-2025-08-07
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DESCRIPTION:Model: gpt-5-mini-2025-08-07\nReplacement: gpt-5.6-terra\nStat
- us: deprecated
+DESCRIPTION:Model: gpt-5-mini | gpt-5-mini-2025-08-07\nReplacement: gpt-5.
+ 6-terra\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5-mini-2025-08-07 shutdown in 7 days
+DESCRIPTION:gpt-5-mini | gpt-5-mini-2025-08-07 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5-mini-2025-08-07 shutdown in 30 days
+DESCRIPTION:gpt-5-mini | gpt-5-mini-2025-08-07 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5-nano-2025-08-07
+SUMMARY:[OpenAI] Model deprecation: gpt-5-nano | gpt-5-nano-2025-08-07
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DESCRIPTION:Model: gpt-5-nano-2025-08-07\nReplacement: gpt-5.6-luna\nStatu
- s: deprecated
+DESCRIPTION:Model: gpt-5-nano | gpt-5-nano-2025-08-07\nReplacement: gpt-5.
+ 6-luna\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5-nano-2025-08-07 shutdown in 7 days
+DESCRIPTION:gpt-5-nano | gpt-5-nano-2025-08-07 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5-nano-2025-08-07 shutdown in 30 days
+DESCRIPTION:gpt-5-nano | gpt-5-nano-2025-08-07 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5-pro-2025-10-06
+SUMMARY:[OpenAI] Model deprecation: gpt-5-pro | gpt-5-pro-2025-10-06
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DESCRIPTION:Model: gpt-5-pro-2025-10-06\nReplacement: gpt-5.6-sol (reasoni
- ng.mode: pro)\nStatus: deprecated
+DESCRIPTION:Model: gpt-5-pro | gpt-5-pro-2025-10-06\nReplacement: gpt-5.6-
+ sol (reasoning.mode: pro)\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5-pro-2025-10-06 shutdown in 7 days
+DESCRIPTION:gpt-5-pro | gpt-5-pro-2025-10-06 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-5-pro-2025-10-06 shutdown in 30 days
+DESCRIPTION:gpt-5-pro | gpt-5-pro-2025-10-06 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: o3-2025-04-16
+SUMMARY:[OpenAI] Model deprecation: o3 | o3-2025-04-16
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DESCRIPTION:Model: o3-2025-04-16\nReplacement: gpt-5.6-sol\nStatus: deprec
- ated
+DESCRIPTION:Model: o3 | o3-2025-04-16\nReplacement: gpt-5.6-sol\nStatus: d
+ eprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:o3-2025-04-16 shutdown in 7 days
+DESCRIPTION:o3 | o3-2025-04-16 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:o3-2025-04-16 shutdown in 30 days
+DESCRIPTION:o3 | o3-2025-04-16 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: o3-pro-2025-06-10
+SUMMARY:[OpenAI] Model deprecation: o3-pro | o3-pro-2025-06-10
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261212
-DESCRIPTION:Model: o3-pro-2025-06-10\nReplacement: gpt-5.6-sol (reasoning.
- mode: pro)\nStatus: deprecated
+DESCRIPTION:Model: o3-pro | o3-pro-2025-06-10\nReplacement: gpt-5.6-sol (r
+ easoning.mode: pro)\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:o3-pro-2025-06-10 shutdown in 7 days
+DESCRIPTION:o3-pro | o3-pro-2025-06-10 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:o3-pro-2025-06-10 shutdown in 30 days
+DESCRIPTION:o3-pro | o3-pro-2025-06-10 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -549,19 +564,20 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-image-1.5
+SUMMARY:[OpenAI] Model deprecation: gpt-image-1.5 | gpt-image-1.5-2025-12-
+ 16
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
-DESCRIPTION:Model: gpt-image-1.5\nReplacement: gpt-image-2.5-sunburst or g
- pt-image-2.5-flare\nStatus: deprecated
+DESCRIPTION:Model: gpt-image-1.5 | gpt-image-1.5-2025-12-16\nReplacement: 
+ gpt-image-2.5-sunburst or gpt-image-2.5-flare\nStatus: deprecated
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-image-1.5 shutdown in 7 days
+DESCRIPTION:gpt-image-1.5 | gpt-image-1.5-2025-12-16 shutdown in 7 days
 TRIGGER:-P7D
 END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
-DESCRIPTION:gpt-image-1.5 shutdown in 30 days
+DESCRIPTION:gpt-image-1.5 | gpt-image-1.5-2025-12-16 shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -579,6 +595,57 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:chatgpt-image-latest shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: gpt-5.4-cyber
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261002
+DESCRIPTION:Model: gpt-5.4-cyber\nReplacement: The most capable cyber mode
+ l available to you.\nStatus: deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.4-cyber shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.4-cyber shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: gpt-5.2-chat-latest
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DESCRIPTION:Model: gpt-5.2-chat-latest\nReplacement: gpt-5.6-sol\nStatus: 
+ deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.2-chat-latest shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.2-chat-latest shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[OpenAI] Model deprecation: gpt-5.3-chat-latest
+DTSTART;VALUE=DATE:20260810
+DTEND;VALUE=DATE:20260811
+DESCRIPTION:Model: gpt-5.3-chat-latest\nReplacement: gpt-5.6-sol\nStatus: 
+ deprecated
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.3-chat-latest shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-5.3-chat-latest shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -876,57 +943,6 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:ft-davinci-002 shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5.4-cyber
-DTSTART;VALUE=DATE:20261001
-DTEND;VALUE=DATE:20261002
-DESCRIPTION:Model: gpt-5.4-cyber\nReplacement: The most capable cyber mode
- l available to you.\nStatus: deprecated
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.4-cyber shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.4-cyber shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5.2-chat-latest
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-DESCRIPTION:Model: gpt-5.2-chat-latest\nReplacement: gpt-5.6-sol\nStatus: 
- deprecated
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.2-chat-latest shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.2-chat-latest shutdown in 30 days
-TRIGGER:-P30D
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:[OpenAI] Model deprecation: gpt-5.3-chat-latest
-DTSTART;VALUE=DATE:20260810
-DTEND;VALUE=DATE:20260811
-DESCRIPTION:Model: gpt-5.3-chat-latest\nReplacement: gpt-5.6-sol\nStatus: 
- deprecated
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.3-chat-latest shutdown in 7 days
-TRIGGER:-P7D
-END:VALARM
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:gpt-5.3-chat-latest shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT
@@ -5014,6 +5030,24 @@ END:VALARM
 BEGIN:VALARM
 ACTION:DISPLAY
 DESCRIPTION:gpt-realtime-1.5 (2026-02-23) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:[Azure Foundry (OpenAI)] Model deprecation: gpt-realtime-2 (2026-0
+ 5-06)
+DTSTART;VALUE=DATE:20270120
+DTEND;VALUE=DATE:20270121
+DESCRIPTION:Model: gpt-realtime-2 (2026-05-06)\nReplacement: gpt-realtime-
+ 2.1\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-realtime-2 (2026-05-06) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:gpt-realtime-2 (2026-05-06) shutdown in 30 days
 TRIGGER:-P30D
 END:VALARM
 END:VEVENT

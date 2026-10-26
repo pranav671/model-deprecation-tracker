@@ -5703,6 +5703,23 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-mythos-5-1 (
+ 1)
+DTSTART;VALUE=DATE:20270901
+DTEND;VALUE=DATE:20270902
+DESCRIPTION:Model: claude-mythos-5-1 (1)\nStatus: active
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-mythos-5-1 (1) shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:claude-mythos-5-1 (1) shutdown in 30 days
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Azure Foundry (Anthropic)] Model deprecation: claude-mythos-previ
  ew (gated research preview)
 DTSTART;VALUE=DATE:20270402

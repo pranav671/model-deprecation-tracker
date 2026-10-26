@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-10-25*
+*Last updated: 2026-10-26*
 
 ### Anthropic
 
@@ -63,6 +63,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | claude-opus-5 (1) |  | active | TBD | 2027-07-08 |  |
 | claude-opus-4-8 (2) |  | active | TBD | 2027-09-01 |  |
 | claude-opus-4-8 (1) |  | active | TBD | 2027-09-01 |  |
+| claude-mythos-5-1 (1) |  | active | TBD | 2027-09-01 |  |
 | claude-fable-5-1 (1) |  | active | TBD | 2027-12-05 |  |
 | claude-fable-5 (1) |  | active | TBD | 2027-12-05 |  |
 

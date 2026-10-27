@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-10-26*
+*Last updated: 2026-10-27*
 
 ### Anthropic
 
@@ -149,7 +149,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| gemini-2.5-computer-use-preview-10-2025 |  | retired | TBD | 🔴 2026-07-28 | gemini-3.8-flash |
 | embedding-2-preview |  | retired | TBD | 🔴 2026-08-10 | gemini-embedding-2 |
 | imagen-4.0-generate-001 |  | retired | TBD | 🔴 2026-08-17 | gemini-nano-banana-2.1 |
 | imagen-4.0-ultra-generate-001 |  | retired | TBD | 🔴 2026-08-17 | gemini-nano-banana-2.1 |
@@ -198,11 +197,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | o3-mini-2025-01-31 | o3-mini |  | deprecated | TBD | 🔴 2026-10-23 | gpt-5.6-sol |
 | ft-o4-mini-2025-04-16 |  | deprecated | TBD | 🔴 2026-10-23 | gpt-5.6-terra |
 | o4-mini-2025-04-16 | o4-mini |  | deprecated | TBD | 🔴 2026-10-23 | gpt-5.6-terra |
-| ft-gpt-3.5-turbo |  | deprecated | TBD | 🔴 2026-10-23 | gpt-5.6-terra |
-| ft-gpt-4 |  | deprecated | TBD | 🔴 2026-10-23 | gpt-5.6-sol |
-| ft-gpt-4.1-nano-2025-04-14 |  | deprecated | TBD | 🔴 2026-10-23 | gpt-5.6-luna |
-| ft-babbage-002 |  | deprecated | TBD | 🔴 2026-10-23 | gpt-5.6-terra |
-| ft-davinci-002 |  | deprecated | TBD | 🔴 2026-10-23 | gpt-5.6-terra |
 | gpt-image-1-mini |  | deprecated | TBD | 2026-12-01 | gpt-image-2.5-sunburst or gpt-image-2.5-flare |
 | gpt-image-1.5 | gpt-image-1.5-2025-12-16 |  | deprecated | TBD | 2026-12-01 | gpt-image-2.5-sunburst or gpt-image-2.5-flare |
 | chatgpt-image-latest |  | deprecated | TBD | 2026-12-01 | gpt-image-2.5-sunburst or gpt-image-2.5-flare |

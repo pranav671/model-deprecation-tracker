@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-11-21*
+*Last updated: 2026-11-23*
 
 ### Anthropic
 
@@ -225,7 +225,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| Anthropic's Claude 3 Haiku on Google Cloud | Anthropic's Claude 3 Haiku on Google Cloud | retired | 2026-02-23 | 🔴 2026-08-23 |  |
 | Anthropic's Claude Sonnet 4.5 on Google Cloud | Anthropic's Claude Sonnet 4.5 on Google Cloud | deprecated | 2026-09-29 | 🟡 2026-11-30 |  |
 
 <!-- DEPRECATION_TABLE_END -->

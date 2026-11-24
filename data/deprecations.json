@@ -1515,10 +1515,10 @@
     "provider": "Anthropic",
     "model_name": "claude-opus-4-5-20251101",
     "model_id": "",
-    "deprecated_date": "",
-    "shutdown_date": "2026-11-24",
-    "replacement": "",
-    "status": "active"
+    "deprecated_date": "2026-11-23",
+    "shutdown_date": "2027-01-22",
+    "replacement": "claude-opus-5-5",
+    "status": "deprecated"
   },
   {
     "provider": "Anthropic",

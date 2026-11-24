@@ -19,15 +19,15 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-11-23*
+*Last updated: 2026-11-24*
 
 ### Anthropic
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
 | claude-haiku-4-5-20251001 |  | active | TBD | 🔴 2026-10-15 |  |
-| claude-opus-4-5-20251101 |  | active | TBD | 🟡 2026-11-24 |  |
 | claude-sonnet-4-5-20250929 |  | deprecated | 2026-09-30 | 🟡 2026-11-30 | claude-sonnet-5-5 |
+| claude-opus-4-5-20251101 |  | deprecated | 2026-11-23 | 2027-01-22 | claude-opus-5-5 |
 | claude-opus-4-6 |  | active | TBD | 2027-02-05 |  |
 | claude-sonnet-4-6 |  | active | TBD | 2027-02-17 |  |
 | claude-opus-4-7 |  | active | TBD | 2027-04-16 |  |

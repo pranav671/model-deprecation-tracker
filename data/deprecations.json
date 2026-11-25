@@ -1630,6 +1630,15 @@
   },
   {
     "provider": "Vertex AI",
+    "model_name": "Anthropic's Claude Opus 4.5 on Google Cloud",
+    "model_id": "Anthropic's Claude Opus 4.5 on Google Cloud",
+    "deprecated_date": "2026-11-23",
+    "shutdown_date": "2026-01-22",
+    "replacement": "",
+    "status": "retired"
+  },
+  {
+    "provider": "Vertex AI",
     "model_name": "Anthropic's Claude Sonnet 4.5 on Google Cloud",
     "model_id": "Anthropic's Claude Sonnet 4.5 on Google Cloud",
     "deprecated_date": "2026-09-29",

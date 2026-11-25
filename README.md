@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-11-24*
+*Last updated: 2026-11-25*
 
 ### Anthropic
 
@@ -156,7 +156,6 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 | Model | Model ID | Status | Deprecated | Shutdown | Replacement |
 |-------|----------|--------|------------|----------|-------------|
-| Assistants API |  | deprecated | TBD | 🔴 2026-08-26 | Aug 26, 2025 |
 | Videos API |  | deprecated | TBD | 🔴 2026-09-24 | Mar 24, 2026 |
 | sora-2 |  | deprecated | TBD | 🔴 2026-09-24 | Mar 24, 2026 |
 | sora-2-pro |  | deprecated | TBD | 🔴 2026-09-24 | Mar 24, 2026 |

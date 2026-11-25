@@ -3209,6 +3209,25 @@ TRIGGER:-P30D
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
+SUMMARY:[Vertex AI] Model deprecation: Anthropic's Claude Opus 4.5 on Goog
+ le Cloud
+DTSTART;VALUE=DATE:20260122
+DTEND;VALUE=DATE:20260123
+DESCRIPTION:Model: Anthropic's Claude Opus 4.5 on Google Cloud\nModel ID: 
+ Anthropic's Claude Opus 4.5 on Google Cloud\nStatus: retired
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Anthropic's Claude Opus 4.5 on Google Cloud shutdown in 7 days
+TRIGGER:-P7D
+END:VALARM
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Anthropic's Claude Opus 4.5 on Google Cloud shutdown in 30 day
+ s
+TRIGGER:-P30D
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:[Vertex AI] Model deprecation: Anthropic's Claude Sonnet 4.5 on Go
  ogle Cloud
 DTSTART;VALUE=DATE:20261130

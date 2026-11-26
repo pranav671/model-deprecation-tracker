@@ -649,8 +649,8 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:[OpenAI] Model deprecation: Self-serve fine-tuning job creation
-DTSTART;VALUE=DATE:20270106
-DTEND;VALUE=DATE:20270107
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
 DESCRIPTION:Model: Self-serve fine-tuning job creation\nReplacement: May 7
  \, 2026\nStatus: deprecated
 BEGIN:VALARM

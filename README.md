@@ -19,7 +19,7 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 
 <!-- DEPRECATION_TABLE_START -->
 
-*Last updated: 2026-11-25*
+*Last updated: 2026-11-26*
 
 ### Anthropic
 
@@ -191,10 +191,10 @@ Download [deprecations.ics](deprecations.ics) and import it into your calendar a
 | gpt-5-pro, gpt-5-pro-2025-10-06 |  | deprecated | TBD | 🟡 2026-12-11 | Jun 11, 2026 |
 | o3, o3-2025-04-16 |  | deprecated | TBD | 🟡 2026-12-11 | Jun 11, 2026 |
 | o3-pro, o3-pro-2025-06-10 |  | deprecated | TBD | 🟡 2026-12-11 | Jun 11, 2026 |
+| Self-serve fine-tuning job creation |  | deprecated | TBD | 🟡 2026-12-15 | May 7, 2026 |
 | tts-1 |  | deprecated | TBD | 2027-01-06 | Oct 1, 2026 |
 | tts-1-hd |  | deprecated | TBD | 2027-01-06 | Oct 1, 2026 |
 | gpt-4o-mini-tts, gpt-4o-mini-tts-2025-03-20, gpt-4o-mini-tts-2025-12-15 |  | deprecated | TBD | 2027-01-06 | Oct 1, 2026 |
-| Self-serve fine-tuning job creation |  | deprecated | TBD | 2027-01-06 | May 7, 2026 |
 | GPT-5.2, GPT-5.4, and GPT-5.4 mini with EU data residency and service_tier: fast or priority |  | deprecated | TBD | 2027-01-11 | Nov 18, 2026 |
 | GPT-4o (gpt-4o-2024-08-06, gpt-4o-2024-11-20) |  | deprecated | TBD | 2027-01-14 | Oct 14, 2026 |
 | GPT-4o mini (gpt-4o-mini-2024-07-18) |  | deprecated | TBD | 2027-01-14 | Oct 14, 2026 |
